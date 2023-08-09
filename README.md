@@ -10,9 +10,9 @@
 
 ### Objetivo:
 
-O objetivo da análise é extrair informações de performances individuais dos colabores de uma empresa fictícia para tomadas de decisão. Trata-se de um cenário comum de gestão de operações, na qual é necessário com base em parâmetros de produção, qualidade, tma, entre outros, determinar se um analista está atuando dentro ou fora do esperado e a partir disso tomar as devidas medidas (feedbacks, acompanhamento individual, sanções, dentre outras conforme as políticas prevista pela empresa).
+O objetivo do *dashboard* RH é apresentar o controle de indicadores de uma empresa, baseando em critérios como áreas, tipo de contratos ou por período(ano). Através do painel é possível verificar os indicadores essenciais para controle e tomadas de decisão de uma área de Recursos Humanos, tais quais, quantidades de funcionários por gêneros, cargo, área, faixa salarial, benefícios, entre outros.
 
-**Obs:** Todos os dados são fictícios e gerados aleatoriamente. A ideia da criação desse *dashboard* é utilizar somente tabelas com funções básicas e dispensar o uso de programação e/ou tabelas dinâmicas.
+**Obs:** Todos os dados são fictícios e gerados aleatoriamente. A ideia da criação desse *dashboard* é explorar recursos de funções matriciais e filtros baseados em controle de células, sem o uso de tabelas dinâmicas, apenas com tabelas comuns auxiliares.
 <hr>
 
 ### Etapas do projeto:
@@ -30,30 +30,29 @@ O tempo estimado para a execução de todas as etapas é de 1 dia.
 
 ### Projeto Final a ser desenvolvido:
 
-![dashOp](https://github.com/AlbertoFAraujo/DashOperacoes/assets/105552990/d76a97e1-9d09-4d2f-b236-89f8d3155b76)
+![DashRH_print](https://github.com/AlbertoFAraujo/DashRH/assets/105552990/5f63c35c-92ce-4047-a824-601f81c35d59)
 <hr>
 
 ### Execução das Etapas:
 
 #### 1. Definição do objetivo da análise e geração da base de valores fictícios;
 
-O objetivo da análise é extrair informações de performances individuais dos colabores de uma empresa fictícia para tomadas de decisão. Trata-se de um cenário comum de gestão de operações, na qual é necessário com base em parâmetros de produção, qualidade, tma, entre outros, determinar se um analista está atuando dentro ou fora do esperado e a partir disso tomar as devidas medidas (feedbacks, acompanhamento individual, sanções, dentre outras conforme as políticas prevista pela empresa).
-
-A base de dados foi gerada de forma aleatória, mas dentro do cenário de uma operação comum de crédito, com variáveis padrões a serem analisadas.
+O objetivo do *dashboard* RH é apresentar o controle de indicadores de uma empresa, baseando em critérios como áreas, tipo de contratos ou por período(ano). Através do painel é possível verificar os indicadores essenciais para controle e tomadas de decisão de uma área de Recursos Humanos, tais quais, quantidades de funcionários por gêneros, cargo, área, faixa salarial, benefícios, entre outros.
 
 #### 2. Tratamento dos dados (Limpeza, transformações, formatações, criação de tabelas auxiliares e filtros-chave);
-- Foi gerado nomes fictícios a partir do site [Mockaroo - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel](https://www.mockaroo.com/);
-- As demais variáveis geradas são explicadas abaixo:
+- Foi gerado dados fictícios a partir do chat GPT: [ChatGPT (openai.com)](https://chat.openai.com/auth/login);
+- As demais variáveis são intuitivas os nomes, portanto não há necessidade de glossário;
+- Houve a necessidade de criar 7 colunas auxiliares para categorização de algumas variáveis, são elas:
 
-    | Variáveis: | Significado: |  
-    | --- | --- |   
-    | Fila_atuacao | Subdividida em: Agendamento, Contato, Vendas. Trata-se da fila/etapa ou esteira de atuação na qual o analista está realizando o tratamento da demanda. |
-    | UF_Loja | Subdividida em 27 valores correspondente às siglas dos estados do Brasil. |
-    | Analista | Analista que realizou o tratamento da proposta. |
-    | Data | Data na qual foi realizado o tratamento da proposta. |
-    | Status | Subdividida em: Aprovação, Pendencia, Reprova ou Fraude. Trata-se da definição final do analista em relação à proposta tratada, ou seja, como classificou o tratamento final. |
-    | TMA | Tempo médio de Análise da proposta. |
-    | Valor | Valor equivalente da proposta. |
+    | Variáveis: | Significado: |
+    | --- | --- |
+    | Tempo Empresa | Extração do período em dias. |
+    | Faixa Tempo Empresa | Categorizado a partir dos quartis (1,2,3,4) em dias. |
+    | Faixa Salarial | Categorizado a partir dos quartis (1,2,3,4) em reais. |
+    | Faixa Idade | Categorizado a partir dos quartis (1,2,3,4) em anos. |
+    | Status | Situação do funcionário para casos de ausências, como Licença Maternidade, Desligamento ou outros afastamentos |
+    | Ano Contratação | Extração do período em Anos |
+    | Ano Desligamento | Extração do período em Anos |
 <hr>
 
 #### 3. Identificação das métricas-alvo e escolha das visualizações gráficas adequadas para cada cenário:
@@ -63,27 +62,27 @@ Os gráficos foram escolhidos conforme a disposição dos dados das variáveis e
 
 #### 4. Criação do layout e composição de paleta de cores:
 
-O layout foi pensando na disposição das informações, como a ideia é obter informações rápidas sobre a performance do analista selecionado através do filtro do painel lateral, o layout apresenta as métricas-alvo para que essa análise seja realizada de forma eficiente e clara.
+O layout foi pensando na disposição das informações, como o principal objetivo é obter informações de controle e gerenciamento de Recursos Humanos, foram criados alguns dos principais gráficos que remetem uma análise mais visual, rápida e contribui com a tomada de decisão diária, como novas contratações, reposições de quadros, controles de benefícios. 
 
-- **Gráfico “Status”:** O objetivo desse gráfico é exibir o percentual dos status das propostas e garantir que o analista esteja dentro dos parâmetros médio da operação, ou seja, controlar o número de pendências, fraudes retidas, reprovas e aprovações. Com isso, o gestor é capaz de monitorar os indicadores de forma visual e garantir que esteja controlado e dentro dos aceites da política da empresa.
+- **Gráfico “Faixa Etária Idade”:** O objetivo desse gráfico é apresentar a distribuição de funcionários por faixa etária de idade, por meio de valor absoluto ou percentual;
 
- - **Gráfico “Produção Fila”:** O objetivo desse gráfico é exibir de forma comparativa a produção do analista por fila/esteira de tratamento, garantindo que o mesmo não esteja atuando de forma desproporcional nas demais, às vezes por serem mais rápidas, menos etapas…
+- **Gráfico “Quantidade de Funcionários por Gênero”:** O objetivo desse gráfico é exibir de forma comparativa a distribuição da quantidade de funcionários por gêneros;
 
-- **Gráfico “TMA”:** O objetivo desse gráfico é demonstrar de forma visual o tempo médio de análise em cada uma das filas de tratativa, ou seja, se o analista está dentro do parâmetro médio global de cada uma das filas, visto que, cada fila possuem um TMA Médio que deve ser seguido, sendo calculado por diversos fatores e com base em dados histórico. O gráfico pode ser implementado com uma meta por fila, por exemplo, garantindo de forma visual e intuitiva todas as vezes que o analista esteja fora ou dentro da meta de TMA por fila.
+- **Gráfico “Tempo de Empresa”:** O objetivo desse gráfico é demonstrar de forma visual como está distribuído o “tempo de casa” dos funcionários, o gráfico de Radar proporciona essa visão generalista, na qual apresenta de forma muito efetiva a distribuição entre as faixa de tempo em dias;
 
-- **Gráfico “Produção x Dia”:** O objetivo desse gráfico é exibir de forma clara a produção por dia do analista filtrado, e em tempo, demonstrar em qual dia o mesmo esteve abaixo ou acima da meta através das cores do gráfico. O gráfico pode ainda ser implementado em exibir informações de quantos dias o analista esteve abaixo, acima…para que o gestor possa criar um plano de ação com base nesse resultado e garantir a entrega da meta e/ou entender por quais motivos o analista esteve fora da margem da meta.
+- **Gráfico “Valores por Benefícios”:** O objetivo desse gráfico é apresentar os valores gastos por benefícios e o total geral, sendo ainda possível analisar por meio dos filtros os valores por área, contrato ou ano e tomar decisões com base nos valores;
 
-- **Gráfico “Fraude x Estado”:** O gráfico apresenta o número de fraudes por estado, podendo ser correlacionado de forma global entre a operação e garantir planos de ações para futuras propostas derivadas do estado ou de alerta.
+- **Gráfico “Quantidade de Funcionários por Cargo”:** O gráfico apresenta o número de funcionários por cargo e por gênero, sendo possível realizar a comparação de distribuição;
 
-- **Gráfico “Valor Retido”:** O gráfico apresenta o controle de valores retidos por região do Brasil, também pode ser utilizado como um parâmetro de alerta, seguido de um plano de ação para as futuras derivações de propostas e cuidados a serem tomados, identificar padrões de ataques e afins.
+- **Gráfico “Faixa Salarial”:** O gráfico a distribuição de salários por faixa e por gênero;
 
-- **Gráfico “Fraudes”:** O gráfico apresenta a porcentagem de fraudes derivadas em cada uma das filas/esteira de análise, podendo ser correlacionado de forma global e de alerta para as futuras derivações.
+- ***Cards*:** Os *cards* na parte superior do painel apresentam o resumo de “Funcionários Ativos na empresa, desligados, *TurnOver*, Férias, Licenças Maternidade e outros”, também estando dentro dos critérios dos filtros de Área, Tipo de Contrato e Ano;
 
 - **Paletas de cores utilizadas:** O uso de paletas de cores torna-se a visualização mais atraente, portanto deve ser escolhida seguindo uma lógica de cores, geralmente utilizo com base na logo do produto, empresa, marca e afins.
 
-| RGB (255, 217, 102) | RGB (132, 60, 12) | RGB (244, 177, 131) |
-|-------------------|-------------------|-------------------|
-| ![255_217_102](https://github.com/AlbertoFAraujo/DashOperacoes/assets/105552990/d652794c-c580-4a7f-89ca-e4b696a12449) | ![132_60_12](https://github.com/AlbertoFAraujo/DashOperacoes/assets/105552990/5b463a1b-6387-4f49-ae79-63b5688c991b) | ![244_177_131](https://github.com/AlbertoFAraujo/DashOperacoes/assets/105552990/36c2d537-830a-48d8-b6ea-6974350ba609) |
+| RGB (162, 223, 242) | RGB (48, 58, 82) | RGB (243, 113, 104) | RGB (255, 255, 255) |
+|-------------------|-------------------|-------------------|-------------------|
+| ![162_223_242](https://github.com/AlbertoFAraujo/DashRH/assets/105552990/0da81637-049b-402b-ba45-1b5af16600e4) | ![48_58_82](https://github.com/AlbertoFAraujo/DashRH/assets/105552990/d51ba9a2-dd72-4365-bd3c-a3454103545a) | ![243_113_104](https://github.com/AlbertoFAraujo/DashRH/assets/105552990/5c85df64-0f5a-49ec-b698-8cfca2c45486) | ![255_255_255](https://github.com/AlbertoFAraujo/DashRH/assets/105552990/8bdaa061-5187-4f4d-a9a9-87cbf0697ba1) |
 <hr>
 
 #### 5. Teste de qualidade e eficácia do *dashboard* (garantir que todos os gráficos estejam funcionando corretamente e que os dados estejam sendo atualizados)
@@ -93,4 +92,5 @@ Foi realizado diversos testes para garantir que todos os gráficos estivessem se
 
 ### Resultado final
 
-https://github.com/AlbertoFAraujo/DashOperacoes/assets/105552990/a438408e-15da-4a68-b46d-145be558ca04
+https://github.com/AlbertoFAraujo/DashRH/assets/105552990/369fbfb9-5e13-4468-8c7b-663db0e5dce8
+
