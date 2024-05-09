@@ -1,0 +1,1001 @@
+﻿Nome;Gênero;Data Nascimento;Idade;Nível;Escolaridade;Área;Salário;Data Admissão;Data Demissão;Contrato;Motivo Demissão;PCD;Alimentação;Saúde;Odont;Transporte;Creche;Combustível;Benefícios;Mês_admissão;Mês_demissão;Status;Faixa_Idade;Tempo_dias;Faixa_dias
+Kylie Rame;Masculino;17/03/1996;28;Supervisor;Ensino Médio;Financeiro;7000;01/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;24-34;364;270-364
+Dwayne Betun;Masculino;28/02/1988;36;Gerente;Pós-graduação;Recursos Humanos;15000;02/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;Férias;35-44;363;270-364
+Chrisse Oxbrough;Masculino;22/09/1988;36;Gerente;Ensino Superior;Marketing;15000;02/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;35-44;363;270-364
+Kimmy Fardy;Feminino;14/03/1988;36;Gerente;Pós-graduação;Produção;15000;02/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;35-44;363;270-364
+Mata Steynor;Masculino;28/06/1994;30;Analista Sr;Ensino Técnico;Produção;5000;02/01/2019;;CLT;;;600;600;600;600;;500;2900;1;-;;24-34;363;270-364
+Rivi Ofen;Feminino;19/10/1981;43;Supervisor;Ensino Superior;Financeiro;7000;03/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;35-44;362;270-364
+Ross Tutchell;Masculino;14/05/1991;33;Assistente;Ensino Médio;Produção;2500;03/01/2019;;CLT;;;600;600;600;600;500;;2900;1;-;;24-34;362;270-364
+Lisa De Antoni;Feminino;28/04/1961;63;Estagiário;Ensino Médio;Administração;1200;03/01/2019;;Estágio;;;200;200;200;200;;;800;1;-;;55-64;362;270-364
+Bethena Josephs;Feminino;08/08/1978;46;Analista Jr;Ensino Técnico;TI;3500;03/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;45-54;362;270-364
+Kellia Koppel;Feminino;19/07/1970;54;Assistente;Ensino Superior;Recursos Humanos;2500;03/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;45-54;362;270-364
+Briney Eate;Feminino;28/04/1997;27;Gerente;Ensino Médio;TI;15000;03/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;24-34;362;270-364
+Gene Fisbey;Feminino;12/08/1984;40;Analista Sr;Ensino Técnico;Operações;5000;04/01/2019;;CLT;;;600;600;600;600;;500;2900;1;-;;35-44;361;270-364
+Fritz de'-Ancy Willis;Masculino;06/02/1980;44;Supervisor;Ensino Técnico;TI;7000;04/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;Férias;35-44;361;270-364
+Lorant Smaleman;Masculino;10/04/1964;60;Assistente;Ensino Médio;Produção;2500;04/01/2019;21/02/2019;CLT;Demissão Voluntária;Sim;600;600;600;600;;;2400;1;2;;55-64;48;1-85
+Fan Croneen;Feminino;17/12/1987;37;Gerente;Ensino Técnico;Logística;15000;04/01/2019;25/03/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;;500;5300;1;3;;35-44;80;1-85
+Simeon Hlavecek;Masculino;06/06/1993;31;Supervisor;Ensino Superior;TI;7000;04/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;24-34;361;270-364
+Julio Fernando;Masculino;16/11/1975;49;Coordenador;Ensino Médio;Administração;10000;05/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;45-54;360;270-364
+Tedman Girone;Masculino;25/01/1984;40;Analista Jr;Ensino Superior;Marketing;3500;05/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;35-44;360;270-364
+Bell Ginsie;Feminino;07/10/1991;33;Analista Sr;Ensino Superior;Logística;5000;05/01/2019;13/03/2019;CLT;Demissão Voluntária;;600;600;600;600;;500;2900;1;3;;24-34;67;1-85
+Lilla Hedworth;Feminino;29/12/1968;56;Estagiário;Ensino Médio;Administração;1200;05/01/2019;;Estágio;;;200;200;200;200;;;800;1;-;;55-64;360;270-364
+Collie Connechy;Feminino;13/04/1984;40;Coordenador;Ensino Técnico;Logística;10000;05/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;35-44;360;270-364
+Karine Simonds;Feminino;17/02/1993;31;Estagiário;Ensino Médio;Vendas;1200;06/01/2019;04/05/2019;Estágio;Término de Contrato;;200;200;200;200;;;800;1;5;;24-34;118;86-176
+Niven Stembridge;Masculino;08/10/1986;38;Coordenador;Pós-graduação;Vendas;10000;06/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;35-44;359;270-364
+Avrit Matous;Feminino;26/02/1976;48;Estagiário;Ensino Técnico;Vendas;1200;07/01/2019;;Estágio;;;200;200;200;200;;;800;1;-;;45-54;358;270-364
+Maurita Ennor;Feminino;09/10/1964;60;Analista Jr;Ensino Superior;Operações;3500;07/01/2019;;CLT;;;600;600;600;600;500;;2900;1;-;;55-64;358;270-364
+Lonnie Happel;Feminino;14/03/1993;31;Assistente;Ensino Técnico;Marketing;2500;09/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;24-34;356;270-364
+Carly Arenson;Feminino;18/09/1990;34;Assistente;Ensino Médio;Recursos Humanos;2500;09/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;24-34;356;270-364
+Fletch Winmill;Masculino;25/01/1992;32;Analista Jr;Ensino Superior;Recursos Humanos;3500;10/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;24-34;355;270-364
+Con Pennini;Feminino;02/10/1983;41;Analista Jr;Pós-graduação;Produção;3500;10/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;35-44;355;270-364
+Clare Laurence;Masculino;06/12/1998;26;Gerente;Ensino Superior;Produção;15000;11/01/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;1;-;;24-34;354;270-364
+Toiboid Vezey;Masculino;31/08/1993;31;Estagiário;Ensino Técnico;Marketing;1200;11/01/2019;;Estágio;;;200;200;200;200;;;800;1;-;;24-34;354;270-364
+Kesley Cowser;Feminino;10/12/1990;34;Supervisor;Ensino Médio;Produção;7000;11/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;24-34;354;270-364
+Linnie Yeldham;Feminino;02/03/1960;64;Assistente;Ensino Técnico;Vendas;2500;11/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;55-64;354;270-364
+Seline Whiffen;Feminino;18/11/1972;52;Coordenador;Ensino Técnico;Marketing;10000;12/01/2019;28/03/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;;500;5300;1;3;;45-54;75;1-85
+Gabe Bremmer;Masculino;20/10/1978;46;Supervisor;Mestrado;Vendas;7000;12/01/2019;26/02/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;1;2;;45-54;45;1-85
+Herby Rannigan;Masculino;31/12/1985;39;Assistente;Ensino Superior;Marketing;2500;12/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;35-44;353;270-364
+Cyndy Pretswell;Feminino;15/09/1961;63;Supervisor;Ensino Superior;Logística;7000;12/01/2019;14/03/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;1;3;;55-64;61;1-85
+Eadith Rush;Feminino;26/12/1997;27;Analista Sr;Ensino Médio;Logística;5000;12/01/2019;;CLT;;;600;600;600;600;500;500;3400;1;-;;24-34;353;270-364
+Meggi Crankshaw;Feminino;25/12/1965;59;Analista Jr;Ensino Técnico;Vendas;3500;12/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;55-64;353;270-364
+Averil Mugford;Feminino;25/11/1979;45;Gerente;Ensino Técnico;Administração;15000;12/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;45-54;353;270-364
+Karisa Blinder;Feminino;04/09/1989;35;Assistente;Ensino Técnico;Produção;2500;13/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;35-44;352;270-364
+Edwina Avon;Feminino;01/01/1970;54;Assistente;Ensino Médio;TI;2500;13/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;45-54;352;270-364
+Carley Giraudel;Feminino;01/09/1974;50;Gerente;Pós-graduação;Operações;15000;14/01/2019;28/04/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;500;500;5800;1;4;;45-54;104;86-176
+Sephira Bellinger;Feminino;14/04/1967;57;Gerente;Ensino Médio;Vendas;15000;14/01/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;1;-;;55-64;351;270-364
+Brendis Woodburne;Masculino;07/04/1976;48;Gerente;Ensino Médio;Recursos Humanos;15000;15/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;45-54;350;270-364
+Rania Gromley;Feminino;06/03/1967;57;Estagiário;Ensino Técnico;Logística;1200;15/01/2019;;Estágio;;;200;200;200;200;;;800;1;-;;55-64;350;270-364
+Elsey Dacombe;Feminino;20/06/1991;33;Supervisor;Mestrado;Operações;7000;15/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;24-34;350;270-364
+Merwin Lillgard;Masculino;25/05/1967;57;Assistente;Ensino Superior;Administração;2500;15/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;55-64;350;270-364
+Ram Bumby;Masculino;23/11/1975;49;Gerente;Ensino Superior;Operações;15000;15/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;45-54;350;270-364
+Jeramie Rendell;Masculino;08/08/1999;25;Coordenador;Ensino Médio;Administração;10000;15/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;24-34;350;270-364
+Regine Mossbee;Feminino;06/12/1965;59;Analista Sr;Pós-graduação;Produção;5000;15/01/2019;;CLT;;;600;600;600;600;;500;2900;1;-;;55-64;350;270-364
+Renato Thirsk;Masculino;28/07/1970;54;Assistente;Ensino Técnico;TI;2500;15/01/2019;;CLT;;;600;600;600;600;500;;2900;1;-;;45-54;350;270-364
+Melicent O'Cannavan;Feminino;07/04/1998;26;Analista Jr;Ensino Médio;Financeiro;3500;15/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;24-34;350;270-364
+Kandy Rennicks;Feminino;03/12/1999;25;Assistente;Ensino Técnico;Administração;2500;16/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;24-34;349;270-364
+Clarabelle Force;Feminino;07/06/1998;26;Coordenador;Pós-graduação;Recursos Humanos;10000;17/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;24-34;348;270-364
+Alexandre Wieprecht;Masculino;08/06/1991;33;Estagiário;Ensino Técnico;Operações;1200;17/01/2019;;Estágio;;;200;200;200;200;;;800;1;-;;24-34;348;270-364
+Baldwin Bascomb;Masculino;22/04/1964;60;Coordenador;Pós-graduação;TI;10000;17/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;55-64;348;270-364
+Sibyl Cleaver;Masculino;02/05/1973;51;Assistente;Ensino Superior;Vendas;2500;17/01/2019;09/05/2019;CLT;Demissão Involuntária;;600;600;600;600;;;2400;1;5;;45-54;112;86-176
+Jaynell Scripture;Feminino;30/01/1989;35;Estagiário;Ensino Médio;Administração;1200;17/01/2019;;Estágio;;;200;200;200;200;;;800;1;-;;35-44;348;270-364
+Debi Critcher;Feminino;06/11/1998;26;Estagiário;Ensino Técnico;Operações;1200;17/01/2019;;Estágio;;;200;200;200;200;;;800;1;-;;24-34;348;270-364
+Babette Curdell;Feminino;25/06/1967;57;Estagiário;Ensino Técnico;Administração;1200;18/01/2019;;Estágio;;Sim;200;200;200;200;;;800;1;-;;55-64;347;270-364
+Nels Noakes;Masculino;16/01/1995;29;Analista Jr;Ensino Médio;Logística;3500;18/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;24-34;347;270-364
+Betteanne Jeanes;Feminino;14/09/1995;29;Coordenador;Ensino Superior;Marketing;10000;18/01/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;1;-;;24-34;347;270-364
+Nola Braune;Feminino;04/12/1971;53;Assistente;Ensino Médio;Recursos Humanos;2500;19/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;45-54;346;270-364
+Lorianna Leadbitter;Feminino;21/03/1990;34;Analista Jr;Ensino Médio;Financeiro;3500;19/01/2019;;CLT;;;600;600;600;600;500;;2900;1;-;;24-34;346;270-364
+Hewet Jeffry;Masculino;13/08/1989;35;Estagiário;Ensino Médio;Recursos Humanos;1200;19/01/2019;;Estágio;;;200;200;200;200;;;800;1;-;;35-44;346;270-364
+Ertha Minchin;Feminino;24/03/1996;28;Estagiário;Ensino Médio;TI;1200;19/01/2019;;Estágio;;;200;200;200;200;;;800;1;-;;24-34;346;270-364
+Dougie Pilkington;Masculino;29/02/1988;36;Estagiário;Ensino Médio;Recursos Humanos;1200;20/01/2019;;Estágio;;;200;200;200;200;500;;1300;1;-;;35-44;345;270-364
+Anne Bibey;Feminino;19/02/1978;46;Coordenador;Pós-graduação;Logística;10000;20/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;45-54;345;270-364
+Meg Deerr;Feminino;13/05/1978;46;Coordenador;Ensino Superior;TI;10000;20/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;45-54;345;270-364
+Brett Pedri;Feminino;17/02/1982;42;Coordenador;Mestrado;Logística;10000;21/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;35-44;344;270-364
+Randal Starking;Masculino;01/10/1986;38;Supervisor;Ensino Superior;Logística;7000;21/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;35-44;344;270-364
+Nance Luckie;Feminino;14/12/1973;51;Analista Jr;Ensino Técnico;Administração;3500;21/01/2019;30/04/2019;CLT;Demissão Voluntária;;600;600;600;600;;;2400;1;4;;45-54;99;86-176
+Palm Uc;Masculino;26/07/1970;54;Analista Jr;Ensino Médio;TI;3500;22/01/2019;;CLT;;;600;600;600;600;500;;2900;1;-;;45-54;343;270-364
+Greg Asaaf;Masculino;06/12/2000;24;Estagiário;Ensino Técnico;Vendas;1200;22/01/2019;;Estágio;;;200;200;200;200;;;800;1;-;;24-34;343;270-364
+Ardeen Gillimgham;Feminino;26/08/1974;50;Assistente;Ensino Técnico;TI;2500;23/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;45-54;342;270-364
+Jasmina Keppy;Feminino;19/09/1970;54;Supervisor;Ensino Técnico;Administração;7000;23/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;45-54;342;270-364
+Genia Andreia;Feminino;04/09/1978;46;Assistente;Ensino Médio;Logística;2500;23/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;45-54;342;270-364
+Megan Pitone;Feminino;04/06/1962;62;Estagiário;Ensino Médio;Financeiro;1200;23/01/2019;;Estágio;;;200;200;200;200;;;800;1;-;;55-64;342;270-364
+Meredith Szymonwicz;Masculino;11/12/1996;28;Analista Jr;Ensino Técnico;Administração;3500;23/01/2019;25/04/2019;CLT;Demissão Voluntária;;600;600;600;600;;;2400;1;4;;24-34;92;86-176
+Riccardo Lamplugh;Masculino;11/04/1961;63;Supervisor;Pós-graduação;Administração;7000;23/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;55-64;342;270-364
+Corliss Crone;Feminino;07/07/1978;46;Analista Jr;Ensino Técnico;Financeiro;3500;24/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;45-54;341;270-364
+Maribel Youhill;Feminino;27/05/1975;49;Analista Jr;Ensino Técnico;Logística;3500;24/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;45-54;341;270-364
+Bellanca Biesinger;Feminino;02/05/1975;49;Gerente;Mestrado;Produção;15000;24/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;45-54;341;270-364
+Honor Lampet;Feminino;28/08/1968;56;Supervisor;Ensino Superior;Vendas;7000;25/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;55-64;340;270-364
+Vincenty Garrow;Masculino;12/05/1968;56;Assistente;Ensino Técnico;Administração;2500;25/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;55-64;340;270-364
+Boy Corder;Masculino;16/12/1991;33;Analista Jr;Pós-graduação;Operações;3500;25/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;24-34;340;270-364
+Drona Whorall;Feminino;18/10/1970;54;Gerente;Ensino Superior;Financeiro;15000;26/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;45-54;339;270-364
+Irvin Sertin;Masculino;27/12/1963;61;Assistente;Ensino Técnico;Marketing;2500;26/01/2019;;CLT;;Sim;600;600;600;600;;;2400;1;-;;55-64;339;270-364
+Gradey Nethercott;Masculino;22/09/1987;37;Analista Jr;Ensino Técnico;Administração;3500;27/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;35-44;338;270-364
+Anderea Meardon;Feminino;05/11/1997;27;Gerente;Ensino Superior;Produção;15000;27/01/2019;15/03/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;;500;5300;1;3;;24-34;47;1-85
+Cookie Doyle;Feminino;31/08/1976;48;Coordenador;Ensino Médio;TI;10000;28/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;45-54;337;270-364
+Noell Lawlance;Feminino;11/02/1987;37;Analista Sr;Pós-graduação;TI;5000;28/01/2019;;CLT;;;600;600;600;600;;500;2900;1;-;;35-44;337;270-364
+Robinson Jobin;Masculino;23/08/1982;42;Analista Jr;Ensino Superior;TI;3500;28/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;35-44;337;270-364
+Trip Giraux;Masculino;25/04/1964;60;Gerente;Pós-graduação;Operações;15000;29/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;55-64;336;270-364
+Ludovika Rathbone;Feminino;26/08/1987;37;Gerente;Ensino Superior;Operações;15000;29/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;35-44;336;270-364
+Ernst Stickney;Masculino;10/05/1988;36;Analista Jr;Ensino Superior;Financeiro;3500;29/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;35-44;336;270-364
+Tristan Dykins;Masculino;26/10/1985;39;Analista Sr;Ensino Superior;Produção;5000;29/01/2019;;CLT;;Sim;600;600;600;600;;500;2900;1;-;;35-44;336;270-364
+Morlee Pallatina;Masculino;14/11/1995;29;Analista Jr;Ensino Médio;Produção;3500;29/01/2019;;CLT;;Sim;600;600;600;600;;;2400;1;-;;24-34;336;270-364
+Tyne Camilli;Feminino;04/04/1976;48;Assistente;Ensino Superior;Operações;2500;29/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;;45-54;336;270-364
+Berkley Kinnier;Masculino;17/02/1996;28;Supervisor;Ensino Superior;Recursos Humanos;7000;30/01/2019;;CLT;;;1200;1200;1200;1200;;500;5300;1;-;;24-34;335;270-364
+Tildie Douthwaite;Feminino;06/01/1963;61;Assistente;Ensino Médio;TI;2500;31/01/2019;;CLT;;;600;600;600;600;;;2400;1;-;Férias;55-64;334;270-364
+Cordi Trowel;Feminino;02/05/1973;51;Analista Sr;Ensino Superior;Marketing;5000;31/01/2019;;CLT;;Sim;600;600;600;600;;500;2900;1;-;;45-54;334;270-364
+Rollo Keming;Masculino;09/08/1992;32;Estagiário;Ensino Técnico;Administração;1200;01/02/2019;;Estágio;;;200;200;200;200;;;800;2;-;;24-34;333;270-364
+Ines Lathaye;Feminino;26/01/1969;55;Gerente;Pós-graduação;Vendas;15000;01/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;55-64;333;270-364
+Addie Frisby;Masculino;27/01/1984;40;Assistente;Ensino Superior;Produção;2500;02/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;Férias;35-44;332;270-364
+Cecily Bramble;Feminino;01/03/1995;29;Analista Sr;Pós-graduação;Administração;5000;02/02/2019;;CLT;;;600;600;600;600;;500;2900;2;-;;24-34;332;270-364
+Sile Brandino;Feminino;23/07/1974;50;Coordenador;Ensino Técnico;Marketing;10000;02/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;45-54;332;270-364
+Venus Radbourne;Feminino;24/08/1987;37;Assistente;Ensino Médio;Administração;2500;02/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;35-44;332;270-364
+Orin Sheals;Masculino;15/01/1985;39;Supervisor;Ensino Superior;Recursos Humanos;7000;03/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;35-44;331;270-364
+Marcos Middle;Masculino;04/07/1996;28;Analista Sr;Ensino Médio;Vendas;5000;03/02/2019;;CLT;;;600;600;600;600;;500;2900;2;-;;24-34;331;270-364
+Robyn Spir;Feminino;14/09/1965;59;Assistente;Ensino Médio;TI;2500;03/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;55-64;331;270-364
+Magdaia Schuster;Feminino;26/08/1994;30;Assistente;Ensino Técnico;Recursos Humanos;2500;04/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;24-34;330;270-364
+Lewes Emblen;Masculino;02/09/1997;27;Gerente;Ensino Técnico;Operações;15000;04/02/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;2;-;;24-34;330;270-364
+Matthiew McQuarrie;Masculino;20/04/1967;57;Coordenador;Ensino Médio;Operações;10000;04/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;55-64;330;270-364
+Vance Joffe;Masculino;24/12/1980;44;Coordenador;Ensino Médio;Recursos Humanos;10000;05/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;35-44;329;270-364
+Jacky Kissick;Masculino;29/08/1968;56;Analista Sr;Ensino Superior;TI;5000;06/02/2019;;CLT;;;600;600;600;600;;500;2900;2;-;;55-64;328;270-364
+Ethe Bolger;Masculino;03/08/1985;39;Assistente;Ensino Superior;Recursos Humanos;2500;06/02/2019;;CLT;;Sim;600;600;600;600;;;2400;2;-;;35-44;328;270-364
+Hunter Methingam;Masculino;02/10/1986;38;Analista Sr;Pós-graduação;TI;5000;06/02/2019;;CLT;;;600;600;600;600;;500;2900;2;-;;35-44;328;270-364
+Paulie Robotham;Masculino;24/12/1990;34;Assistente;Ensino Técnico;Administração;2500;06/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;24-34;328;270-364
+Wheeler Beat;Masculino;18/09/1971;53;Gerente;Ensino Técnico;Operações;15000;07/02/2019;;CLT;;Sim;1200;1200;1200;1200;500;500;5800;2;-;;45-54;327;270-364
+William Eaddy;Masculino;04/07/1974;50;Gerente;Ensino Médio;Recursos Humanos;15000;07/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;45-54;327;270-364
+Holden Doddemeede;Masculino;31/01/1963;61;Analista Jr;Ensino Técnico;Recursos Humanos;3500;08/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;55-64;326;270-364
+Malvina Dumingos;Feminino;07/03/1972;52;Supervisor;Ensino Médio;Administração;7000;08/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;45-54;326;270-364
+Addy Hansman;Masculino;07/12/1963;61;Coordenador;Ensino Médio;TI;10000;09/02/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;2;-;;55-64;325;270-364
+Edmon Sarjent;Masculino;05/11/1963;61;Gerente;Ensino Médio;Produção;15000;10/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;55-64;324;270-364
+Ferdinand Bunner;Masculino;08/12/1986;38;Gerente;Mestrado;Marketing;15000;11/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;35-44;323;270-364
+Haily Kelland;Masculino;21/09/1960;64;Gerente;Ensino Técnico;Recursos Humanos;15000;11/02/2019;;CLT;;Sim;1200;1200;1200;1200;500;500;5800;2;-;;55-64;323;270-364
+Joceline Corfield;Feminino;22/10/1989;35;Analista Sr;Ensino Técnico;Recursos Humanos;5000;11/02/2019;;CLT;;;600;600;600;600;;500;2900;2;-;;35-44;323;270-364
+Frederique Chipping;Feminino;04/06/1979;45;Analista Jr;Ensino Técnico;Logística;3500;11/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;45-54;323;270-364
+Arlana Yanov;Feminino;04/01/1972;52;Estagiário;Ensino Técnico;Recursos Humanos;1200;11/02/2019;;Estágio;;;200;200;200;200;;;800;2;-;;45-54;323;270-364
+Gibbie Pennacci;Masculino;06/04/1988;36;Gerente;Ensino Técnico;Produção;15000;12/02/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;2;-;;35-44;322;270-364
+Callie Locks;Feminino;05/04/1984;40;Coordenador;Ensino Médio;Logística;10000;13/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;35-44;321;270-364
+Beck Antonsson;Masculino;06/11/1987;37;Assistente;Ensino Médio;Logística;2500;13/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;35-44;321;270-364
+Lacy Kimbling;Feminino;14/11/1979;45;Assistente;Ensino Médio;Logística;2500;13/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;45-54;321;270-364
+Adams Hows;Masculino;27/06/1996;28;Assistente;Ensino Médio;Administração;2500;14/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;24-34;320;270-364
+Hugo Bethel;Masculino;17/11/1993;31;Coordenador;Mestrado;Operações;10000;14/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;24-34;320;270-364
+Kenyon Fawson;Masculino;27/04/1979;45;Coordenador;Ensino Superior;Logística;10000;14/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;45-54;320;270-364
+Nan Mathieu;Feminino;10/10/1981;43;Analista Sr;Ensino Superior;Marketing;5000;15/02/2019;;CLT;;;600;600;600;600;;500;2900;2;-;;35-44;319;270-364
+Vance Acott;Masculino;12/09/1993;31;Estagiário;Ensino Médio;Vendas;1200;15/02/2019;;Estágio;;;200;200;200;200;500;;1300;2;-;;24-34;319;270-364
+Maggy Letchford;Feminino;03/03/1964;60;Estagiário;Ensino Técnico;Financeiro;1200;16/02/2019;;Estágio;;Sim;200;200;200;200;;;800;2;-;;55-64;318;270-364
+Ellette McVaugh;Feminino;27/11/2000;24;Analista Sr;Pós-graduação;Logística;5000;16/02/2019;;CLT;;;600;600;600;600;;500;2900;2;-;;24-34;318;270-364
+Marco Cockayne;Masculino;25/04/1988;36;Coordenador;Mestrado;TI;10000;16/02/2019;15/06/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;2;6;;35-44;119;86-176
+Katherina Skerratt;Feminino;25/07/1962;62;Estagiário;Ensino Técnico;Financeiro;1200;16/02/2019;;Estágio;;;200;200;200;200;;;800;2;-;;55-64;318;270-364
+Yuri Gresswood;Masculino;22/03/1981;43;Assistente;Ensino Médio;Vendas;2500;17/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;35-44;317;270-364
+Gayelord Hayto;Masculino;08/11/2000;24;Analista Sr;Ensino Técnico;Financeiro;5000;17/02/2019;;CLT;;;600;600;600;600;;500;2900;2;-;;24-34;317;270-364
+Karil Hacaud;Feminino;07/06/1972;52;Assistente;Ensino Superior;Administração;2500;18/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;45-54;316;270-364
+Jsandye Hanselmann;Feminino;27/01/1977;47;Analista Jr;Ensino Técnico;Marketing;3500;18/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;45-54;316;270-364
+Corny Yendall;Masculino;14/05/1996;28;Coordenador;Mestrado;Recursos Humanos;10000;18/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;24-34;316;270-364
+Mia Hardwin;Feminino;01/07/1975;49;Supervisor;Pós-graduação;TI;7000;19/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;45-54;315;270-364
+Dominica Chittie;Feminino;22/11/1970;54;Assistente;Ensino Médio;Financeiro;2500;19/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;45-54;315;270-364
+Reinwald Bellison;Masculino;27/05/1983;41;Coordenador;Ensino Superior;Administração;10000;19/02/2019;;CLT;;Sim;1200;1200;1200;1200;500;500;5800;2;-;;35-44;315;270-364
+Hettie Scanlan;Feminino;27/02/2000;24;Coordenador;Mestrado;Logística;10000;20/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;24-34;314;270-364
+Hope Tuddenham;Feminino;18/06/1963;61;Supervisor;Pós-graduação;Marketing;7000;21/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;55-64;313;270-364
+Susanna Ferenczi;Feminino;25/07/1961;63;Gerente;Ensino Superior;Logística;15000;21/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;55-64;313;270-364
+Papagena Neame;Feminino;09/08/1969;55;Supervisor;Pós-graduação;Operações;7000;21/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;55-64;313;270-364
+Claudius Swadling;Masculino;14/02/1977;47;Assistente;Ensino Técnico;Produção;2500;21/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;45-54;313;270-364
+Pippy Abbyss;Feminino;08/06/1996;28;Supervisor;Pós-graduação;Financeiro;7000;22/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;24-34;312;270-364
+Boony Pickersail;Masculino;02/11/1969;55;Analista Jr;Ensino Médio;Marketing;3500;22/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;55-64;312;270-364
+Shaughn Minillo;Masculino;05/10/1971;53;Estagiário;Ensino Médio;Financeiro;1200;22/02/2019;;Estágio;;;200;200;200;200;;;800;2;-;;45-54;312;270-364
+Roy Osmund;Masculino;13/08/1995;29;Estagiário;Ensino Médio;Marketing;1200;22/02/2019;;Estágio;;;200;200;200;200;500;;1300;2;-;;24-34;312;270-364
+Jaimie Maroney;Masculino;07/03/1976;48;Supervisor;Ensino Técnico;Operações;7000;23/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;45-54;311;270-364
+Deena Rodenburgh;Feminino;18/03/1968;56;Analista Jr;Pós-graduação;Logística;3500;23/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;55-64;311;270-364
+Rogers Jessel;Masculino;19/07/1995;29;Assistente;Ensino Superior;Operações;2500;24/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;24-34;310;270-364
+Tynan Beekman;Masculino;09/07/1995;29;Analista Jr;Ensino Técnico;Produção;3500;24/02/2019;;CLT;;;600;600;600;600;;;2400;2;-;;24-34;310;270-364
+Candida Doag;Feminino;15/03/1962;62;Analista Jr;Ensino Técnico;Operações;3500;25/02/2019;03/06/2019;CLT;Demissão Voluntária;;600;600;600;600;;;2400;2;6;;55-64;98;86-176
+Malory Collete;Feminino;10/08/1985;39;Analista Sr;Ensino Médio;TI;5000;25/02/2019;;CLT;;;600;600;600;600;;500;2900;2;-;;35-44;309;270-364
+Fidelio Mingus;Masculino;14/12/1977;47;Supervisor;Ensino Técnico;Marketing;7000;25/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;45-54;309;270-364
+Bessy Pantone;Feminino;29/11/1990;34;Supervisor;Ensino Superior;TI;7000;27/02/2019;;CLT;;;1200;1200;1200;1200;;500;5300;2;-;;24-34;307;270-364
+Marthe MacDearmid;Feminino;13/07/1971;53;Assistente;Ensino Superior;Recursos Humanos;2500;28/02/2019;19/04/2019;CLT;Demissão Voluntária;Sim;600;600;600;600;;;2400;2;4;;45-54;50;1-85
+Humbert Coombes;Masculino;26/03/1981;43;Analista Sr;Ensino Superior;TI;5000;28/02/2019;28/04/2019;CLT;Demissão Involuntária;;600;600;600;600;;500;2900;2;4;;35-44;59;1-85
+Deanna Amor;Feminino;03/12/1961;63;Estagiário;Ensino Médio;Logística;1200;01/03/2019;;Estágio;;;200;200;200;200;;;800;3;-;;55-64;305;270-364
+Devy McCrea;Masculino;28/08/1990;34;Supervisor;Ensino Superior;Marketing;7000;02/03/2019;21/05/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;500;500;5800;3;5;;24-34;80;1-85
+Larry Robbs;Masculino;29/12/1968;56;Analista Jr;Ensino Técnico;Marketing;3500;02/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;55-64;304;270-364
+Luis Wesgate;Masculino;13/01/1972;52;Estagiário;Ensino Médio;Vendas;1200;02/03/2019;;Estágio;;;200;200;200;200;;;800;3;-;;45-54;304;270-364
+Dian Billett;Feminino;29/10/1973;51;Supervisor;Ensino Superior;Produção;7000;02/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;45-54;304;270-364
+Patience Eastlake;Feminino;27/11/1995;29;Assistente;Ensino Superior;Recursos Humanos;2500;03/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;Férias;24-34;303;270-364
+Savina Sarfass;Feminino;25/09/1997;27;Analista Jr;Ensino Médio;TI;3500;03/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;24-34;303;270-364
+Craggie Nairy;Masculino;23/01/1990;34;Analista Jr;Pós-graduação;Marketing;3500;03/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;24-34;303;270-364
+Jocelyne Yetman;Feminino;04/02/2000;24;Analista Sr;Pós-graduação;Financeiro;5000;03/03/2019;;CLT;;;600;600;600;600;;500;2900;3;-;;24-34;303;270-364
+Abramo Blundell;Masculino;11/11/1972;52;Gerente;Mestrado;Financeiro;15000;03/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;45-54;303;270-364
+Stern Woodgate;Masculino;03/10/1983;41;Analista Sr;Ensino Técnico;Logística;5000;04/03/2019;;CLT;;;600;600;600;600;;500;2900;3;-;;35-44;302;270-364
+Debra Sturridge;Feminino;18/04/1981;43;Analista Jr;Ensino Médio;Marketing;3500;04/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;35-44;302;270-364
+Bethanne Lackham;Feminino;06/04/1966;58;Estagiário;Ensino Técnico;Financeiro;1200;04/03/2019;;Estágio;;;200;200;200;200;;;800;3;-;;55-64;302;270-364
+Bryon McSweeney;Masculino;23/04/1963;61;Analista Jr;Ensino Superior;Marketing;3500;04/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;55-64;302;270-364
+Adria Dufour;Feminino;26/01/1990;34;Supervisor;Ensino Técnico;Logística;7000;05/03/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;3;-;;24-34;301;270-364
+Phyllida Brownsall;Feminino;03/04/1963;61;Analista Jr;Ensino Superior;Operações;3500;05/03/2019;;CLT;;Sim;600;600;600;600;;;2400;3;-;;55-64;301;270-364
+Babbie Hulkes;Feminino;22/01/1973;51;Assistente;Ensino Médio;Logística;2500;05/03/2019;;CLT;;;600;600;600;600;500;;2900;3;-;;45-54;301;270-364
+Ignace Bristo;Masculino;27/02/1968;56;Supervisor;Mestrado;Produção;7000;05/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;55-64;301;270-364
+Elisabetta Dinnis;Feminino;02/01/1977;47;Assistente;Ensino Técnico;Administração;2500;06/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;45-54;300;270-364
+Blair Drinkhill;Masculino;05/10/1962;62;Coordenador;Ensino Técnico;Vendas;10000;06/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;55-64;300;270-364
+Glenden Toffetto;Masculino;11/05/1985;39;Analista Jr;Ensino Superior;Administração;3500;06/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;35-44;300;270-364
+Giulio Lohmeyer;Masculino;17/01/1974;50;Supervisor;Pós-graduação;Financeiro;7000;06/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;45-54;300;270-364
+Kellie Skarr;Feminino;15/08/1965;59;Assistente;Ensino Médio;Vendas;2500;06/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;55-64;300;270-364
+Morty Malyan;Masculino;15/01/1978;46;Coordenador;Ensino Técnico;Administração;10000;07/03/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;3;-;Férias;45-54;299;270-364
+Alvy Wisdom;Masculino;10/10/1985;39;Analista Sr;Ensino Técnico;Vendas;5000;07/03/2019;;CLT;;;600;600;600;600;;500;2900;3;-;;35-44;299;270-364
+Guilbert Phelipeau;Masculino;16/05/1984;40;Analista Jr;Pós-graduação;Produção;3500;08/03/2019;;CLT;;Sim;600;600;600;600;;;2400;3;-;;35-44;298;270-364
+Delaney Stickells;Masculino;25/06/1971;53;Assistente;Ensino Superior;TI;2500;08/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;45-54;298;270-364
+Kimbell Winnard;Masculino;20/11/1964;60;Gerente;Pós-graduação;Vendas;15000;08/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;55-64;298;270-364
+Stefano Davidzon;Masculino;12/11/1972;52;Gerente;Mestrado;Financeiro;15000;08/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;45-54;298;270-364
+Olia Moyse;Feminino;01/01/1974;50;Gerente;Mestrado;TI;15000;08/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;45-54;298;270-364
+Enrica Crosseland;Feminino;01/01/1970;54;Analista Jr;Ensino Técnico;Operações;3500;09/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;45-54;297;270-364
+Johan Hollyar;Masculino;14/08/1981;43;Coordenador;Ensino Técnico;Operações;10000;09/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;35-44;297;270-364
+Agna Rapps;Feminino;15/07/1965;59;Analista Jr;Ensino Superior;Produção;3500;12/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;55-64;294;270-364
+Phylys Philipeaux;Feminino;16/07/1997;27;Estagiário;Ensino Técnico;Marketing;1200;12/03/2019;;Estágio;;Sim;200;200;200;200;;;800;3;-;;24-34;294;270-364
+Margarethe Revan;Feminino;11/05/1990;34;Analista Jr;Ensino Superior;Vendas;3500;12/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;24-34;294;270-364
+Annora Chapelhow;Feminino;02/09/1975;49;Analista Sr;Pós-graduação;Logística;5000;12/03/2019;;CLT;;Sim;600;600;600;600;;500;2900;3;-;;45-54;294;270-364
+Ina Prewer;Feminino;07/01/1963;61;Supervisor;Mestrado;Marketing;7000;13/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;55-64;293;270-364
+Lucilia Sollime;Feminino;04/10/1961;63;Analista Jr;Ensino Técnico;Produção;3500;13/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;55-64;293;270-364
+Christoforo Pelham;Masculino;03/10/1975;49;Analista Jr;Ensino Técnico;Vendas;3500;13/03/2019;;CLT;;Sim;600;600;600;600;;;2400;3;-;;45-54;293;270-364
+Geordie Bettington;Masculino;27/12/1988;36;Gerente;Mestrado;Logística;15000;13/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;35-44;293;270-364
+Debbie Shingles;Feminino;20/11/1994;30;Gerente;Ensino Médio;Operações;15000;14/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;24-34;292;270-364
+Brigitte Gowlett;Feminino;14/05/1973;51;Coordenador;Pós-graduação;Marketing;10000;14/03/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;3;-;;45-54;292;270-364
+Nickey Limer;Masculino;06/10/1965;59;Gerente;Mestrado;Recursos Humanos;15000;15/03/2019;09/07/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;3;7;;55-64;116;86-176
+Birgit Dockwra;Feminino;23/09/1996;28;Assistente;Ensino Superior;Logística;2500;15/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;24-34;291;270-364
+Alix Skully;Feminino;24/06/1983;41;Supervisor;Pós-graduação;Financeiro;7000;16/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;35-44;290;270-364
+Jane Crane;Feminino;04/06/1972;52;Analista Sr;Ensino Superior;Administração;5000;16/03/2019;;CLT;;;600;600;600;600;;500;2900;3;-;;45-54;290;270-364
+Guntar Mathews;Masculino;30/06/1985;39;Estagiário;Ensino Técnico;Operações;1200;16/03/2019;;Estágio;;;200;200;200;200;;;800;3;-;;35-44;290;270-364
+Cash Gannon;Masculino;13/01/1964;60;Supervisor;Ensino Superior;Operações;7000;17/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;55-64;289;270-364
+Yorgos Yellowlee;Masculino;06/07/1978;46;Gerente;Ensino Técnico;Recursos Humanos;15000;18/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;45-54;288;270-364
+Kissee Quested;Feminino;02/02/1994;30;Analista Jr;Ensino Técnico;Logística;3500;18/03/2019;;CLT;;Sim;600;600;600;600;;;2400;3;-;;24-34;288;270-364
+Vassily Constantinou;Masculino;08/06/1972;52;Analista Jr;Pós-graduação;Recursos Humanos;3500;19/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;45-54;287;270-364
+Andromache Spering;Feminino;21/01/1977;47;Coordenador;Mestrado;Operações;10000;19/03/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;3;-;;45-54;287;270-364
+Ky Broxup;Masculino;10/01/1977;47;Estagiário;Ensino Técnico;Marketing;1200;20/03/2019;;Estágio;;;200;200;200;200;;;800;3;-;;45-54;286;270-364
+Ailbert Gresly;Masculino;04/09/1979;45;Analista Jr;Ensino Superior;Operações;3500;20/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;45-54;286;270-364
+Elbert Curme;Masculino;08/11/1966;58;Coordenador;Ensino Superior;Administração;10000;20/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;55-64;286;270-364
+Demetria Gollard;Feminino;24/08/1976;48;Analista Jr;Ensino Médio;Vendas;3500;20/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;Férias;45-54;286;270-364
+Lucienne Scothorn;Feminino;27/05/1990;34;Analista Jr;Pós-graduação;Operações;3500;20/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;24-34;286;270-364
+Matti Syplus;Feminino;28/11/1998;26;Supervisor;Ensino Superior;Administração;7000;20/03/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;3;-;;24-34;286;270-364
+Horatia Voff;Feminino;26/09/1965;59;Coordenador;Mestrado;Produção;10000;21/03/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;3;-;;55-64;285;270-364
+Sergent Osmar;Masculino;11/12/1968;56;Gerente;Ensino Superior;Financeiro;15000;21/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;55-64;285;270-364
+Spence Suggate;Masculino;21/01/1982;42;Analista Sr;Pós-graduação;Vendas;5000;21/03/2019;;CLT;;;600;600;600;600;;500;2900;3;-;;35-44;285;270-364
+Eddie Champagne;Masculino;05/09/1994;30;Coordenador;Mestrado;Vendas;10000;22/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;24-34;284;270-364
+Catha Lesek;Feminino;08/12/1994;30;Assistente;Ensino Superior;TI;2500;22/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;24-34;284;270-364
+Asa Ibbs;Masculino;22/10/1984;40;Estagiário;Ensino Técnico;Operações;1200;22/03/2019;;Estágio;;;200;200;200;200;;;800;3;-;;35-44;284;270-364
+Nathanael Byforth;Masculino;28/04/2000;24;Coordenador;Mestrado;Recursos Humanos;10000;22/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;24-34;284;270-364
+Daryl Lahrs;Masculino;30/09/1977;47;Gerente;Ensino Médio;Produção;15000;23/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;45-54;283;270-364
+Becka Glennard;Feminino;08/12/1969;55;Coordenador;Pós-graduação;Produção;10000;23/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;55-64;283;270-364
+Fannie Pietrzak;Feminino;22/08/1983;41;Assistente;Ensino Técnico;Vendas;2500;23/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;35-44;283;270-364
+Olga Labbett;Feminino;21/03/1977;47;Analista Sr;Ensino Técnico;Recursos Humanos;5000;24/03/2019;;CLT;;;600;600;600;600;;500;2900;3;-;;45-54;282;270-364
+Sindee Dawe;Feminino;26/11/1994;30;Assistente;Ensino Superior;Financeiro;2500;24/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;24-34;282;270-364
+Raddy Winters;Masculino;13/05/1979;45;Gerente;Pós-graduação;TI;15000;24/03/2019;07/06/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;;500;5300;3;6;;45-54;75;1-85
+Sutherlan Russen;Masculino;19/11/1987;37;Coordenador;Mestrado;Financeiro;10000;24/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;35-44;282;270-364
+Daven Grindall;Masculino;02/01/1975;49;Analista Jr;Ensino Técnico;Administração;3500;25/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;45-54;281;270-364
+Dex Gabe;Masculino;29/12/1994;30;Gerente;Mestrado;Administração;15000;25/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;24-34;281;270-364
+August Carlile;Masculino;11/09/1962;62;Assistente;Ensino Técnico;Marketing;2500;25/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;55-64;281;270-364
+Jeanna Claringbold;Feminino;01/08/1989;35;Coordenador;Ensino Técnico;Administração;10000;25/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;35-44;281;270-364
+Elsa Coiley;Feminino;21/08/1995;29;Coordenador;Ensino Superior;TI;10000;26/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;24-34;280;270-364
+Mischa Davidsen;Masculino;11/02/1983;41;Coordenador;Ensino Superior;Marketing;10000;26/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;35-44;280;270-364
+Ellwood Mathieu;Masculino;03/02/1974;50;Analista Sr;Pós-graduação;Operações;5000;27/03/2019;;CLT;;Sim;600;600;600;600;;500;2900;3;-;;45-54;279;270-364
+Ricoriki Oen;Masculino;17/10/1997;27;Gerente;Ensino Técnico;Operações;15000;27/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;Férias;24-34;279;270-364
+Whitby Hurcombe;Masculino;07/08/1967;57;Coordenador;Ensino Técnico;Administração;10000;28/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;55-64;278;270-364
+Dallas Phillips;Masculino;21/12/1975;49;Analista Jr;Ensino Superior;TI;3500;28/03/2019;;CLT;;;600;600;600;600;;;2400;3;-;;45-54;278;270-364
+Alexander Aplin;Masculino;30/01/1964;60;Supervisor;Ensino Superior;Marketing;7000;29/03/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;3;-;;55-64;277;270-364
+Christian Dochon;Feminino;25/02/1976;48;Analista Sr;Ensino Superior;Financeiro;5000;30/03/2019;;CLT;;Sim;600;600;600;600;;500;2900;3;-;;45-54;276;270-364
+Hayes Peat;Masculino;21/04/1989;35;Estagiário;Ensino Técnico;Produção;1200;30/03/2019;;Estágio;;;200;200;200;200;;;800;3;-;;35-44;276;270-364
+Perl Fever;Feminino;12/04/1972;52;Gerente;Mestrado;Produção;15000;30/03/2019;;CLT;;;1200;1200;1200;1200;;500;5300;3;-;;45-54;276;270-364
+Mike Sommerled;Masculino;25/05/1982;42;Analista Sr;Ensino Técnico;Vendas;5000;31/03/2019;;CLT;;Sim;600;600;600;600;;500;2900;3;-;Férias;35-44;275;270-364
+Court Gouldthorpe;Masculino;18/01/1975;49;Analista Sr;Ensino Superior;Vendas;5000;01/04/2019;;CLT;;;600;600;600;600;;500;2900;4;-;;45-54;274;270-364
+Mag Taffie;Feminino;24/04/1994;30;Coordenador;Mestrado;Logística;10000;01/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;24-34;274;270-364
+Johna Urien;Feminino;08/03/1979;45;Assistente;Ensino Técnico;Logística;2500;02/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;45-54;273;270-364
+Mandel Bart;Masculino;02/12/1988;36;Supervisor;Ensino Médio;Administração;7000;02/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;35-44;273;270-364
+Jobyna Marskell;Feminino;16/10/1985;39;Gerente;Pós-graduação;Operações;15000;03/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;35-44;272;270-364
+Marilyn Pashler;Feminino;07/08/1989;35;Assistente;Ensino Médio;Marketing;2500;03/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;35-44;272;270-364
+Berne Daymont;Masculino;09/02/1974;50;Supervisor;Ensino Superior;Financeiro;7000;03/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;45-54;272;270-364
+Shepard Shurmore;Masculino;29/04/1990;34;Analista Sr;Ensino Técnico;Administração;5000;04/04/2019;;CLT;;Sim;600;600;600;600;;500;2900;4;-;;24-34;271;270-364
+Kevon Bew;Masculino;14/05/2000;24;Assistente;Ensino Técnico;Financeiro;2500;04/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;24-34;271;270-364
+Jerrilee Scramage;Feminino;10/05/1974;50;Analista Jr;Ensino Técnico;TI;3500;05/04/2019;02/06/2019;CLT;Demissão Involuntária;;600;600;600;600;;;2400;4;6;Férias;45-54;58;1-85
+Blisse Gronno;Feminino;26/06/1986;38;Analista Jr;Ensino Superior;Produção;3500;05/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;35-44;270;270-364
+Judye Bearblock;Feminino;21/09/1969;55;Gerente;Pós-graduação;Vendas;15000;06/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;55-64;269;177-269
+Constanta Hrycek;Feminino;09/11/1974;50;Analista Jr;Ensino Superior;TI;3500;06/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;45-54;269;177-269
+Franklin Gutans;Masculino;16/01/1995;29;Analista Sr;Ensino Técnico;Logística;5000;06/04/2019;;CLT;;;600;600;600;600;;500;2900;4;-;;24-34;269;177-269
+Vernen Karolewski;Masculino;20/10/1997;27;Analista Jr;Ensino Médio;Administração;3500;06/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;24-34;269;177-269
+Jo ann McLenaghan;Feminino;18/04/1970;54;Assistente;Ensino Superior;Financeiro;2500;06/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;45-54;269;177-269
+Mariejeanne Gabbitas;Feminino;02/12/1994;30;Analista Sr;Pós-graduação;Logística;5000;07/04/2019;;CLT;;;600;600;600;600;;500;2900;4;-;;24-34;268;177-269
+Virgil Olland;Masculino;01/05/1983;41;Coordenador;Pós-graduação;Administração;10000;07/04/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;4;-;;35-44;268;177-269
+Cos Winsper;Masculino;24/11/1967;57;Estagiário;Ensino Técnico;TI;1200;07/04/2019;;Estágio;;;200;200;200;200;;;800;4;-;;55-64;268;177-269
+Blithe Duhig;Feminino;29/07/1989;35;Coordenador;Pós-graduação;Marketing;10000;08/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;35-44;267;177-269
+Bartlett Darnbrough;Masculino;02/07/1968;56;Assistente;Ensino Técnico;Operações;2500;08/04/2019;;CLT;;Sim;600;600;600;600;;;2400;4;-;;55-64;267;177-269
+Barrie Tulloch;Feminino;20/12/1980;44;Coordenador;Ensino Superior;Administração;10000;08/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;35-44;267;177-269
+Shepherd Alekseicik;Masculino;02/10/1982;42;Assistente;Ensino Médio;Financeiro;2500;09/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;35-44;266;177-269
+Davis Joliffe;Masculino;20/06/1970;54;Supervisor;Pós-graduação;Financeiro;7000;09/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;45-54;266;177-269
+Boycie Noon;Masculino;28/01/1966;58;Gerente;Ensino Médio;Marketing;15000;11/04/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;4;-;;55-64;264;177-269
+Brenden Ivanyukov;Masculino;11/05/1983;41;Estagiário;Ensino Técnico;Financeiro;1200;11/04/2019;;Estágio;;;200;200;200;200;;;800;4;-;Férias;35-44;264;177-269
+Piggy Dunkinson;Masculino;04/02/1995;29;Coordenador;Mestrado;Operações;10000;12/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;24-34;263;177-269
+Mikel Drife;Masculino;23/12/1975;49;Supervisor;Ensino Superior;Administração;7000;12/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;45-54;263;177-269
+Hilario Lavington;Masculino;02/12/1970;54;Coordenador;Ensino Superior;Logística;10000;13/04/2019;08/07/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;4;7;;45-54;86;86-176
+Griffin Everitt;Masculino;13/04/1997;27;Analista Jr;Ensino Técnico;Administração;3500;14/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;24-34;261;177-269
+Anestassia Gonin;Feminino;02/12/1986;38;Gerente;Ensino Médio;Recursos Humanos;15000;14/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;35-44;261;177-269
+Renee Dronsfield;Feminino;06/06/1989;35;Coordenador;Ensino Técnico;Operações;10000;14/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;35-44;261;177-269
+Dagny Haster;Masculino;28/10/1978;46;Assistente;Ensino Superior;Logística;2500;15/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;45-54;260;177-269
+Drud Maccrae;Masculino;07/01/1981;43;Estagiário;Ensino Médio;Marketing;1200;16/04/2019;;Estágio;;Sim;200;200;200;200;;;800;4;-;Licença;35-44;259;177-269
+Bank Myles;Masculino;27/01/1969;55;Gerente;Ensino Técnico;TI;15000;16/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;55-64;259;177-269
+Penny Frantsev;Feminino;18/11/1979;45;Assistente;Ensino Superior;Operações;2500;16/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;45-54;259;177-269
+Tara Renfree;Feminino;05/08/1987;37;Supervisor;Ensino Técnico;Financeiro;7000;16/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;35-44;259;177-269
+Maegan Beddard;Feminino;29/09/1970;54;Supervisor;Ensino Superior;Operações;7000;16/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;45-54;259;177-269
+Jodie Grodden;Masculino;08/03/1974;50;Gerente;Ensino Médio;Operações;15000;16/04/2019;;CLT;;Sim;1200;1200;1200;1200;500;500;5800;4;-;;45-54;259;177-269
+Glad Rippingale;Feminino;21/12/1986;38;Coordenador;Ensino Superior;Financeiro;10000;16/04/2019;05/08/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;;500;5300;4;8;;35-44;111;86-176
+Shina Luciani;Feminino;03/05/1994;30;Analista Sr;Pós-graduação;Marketing;5000;16/04/2019;;CLT;;;600;600;600;600;;500;2900;4;-;;24-34;259;177-269
+Othello Tredwell;Masculino;15/08/1982;42;Analista Sr;Ensino Superior;Marketing;5000;17/04/2019;;CLT;;;600;600;600;600;500;500;3400;4;-;;35-44;258;177-269
+Brande Longcaster;Feminino;21/03/1979;45;Analista Sr;Pós-graduação;Recursos Humanos;5000;17/04/2019;;CLT;;Sim;600;600;600;600;;500;2900;4;-;;45-54;258;177-269
+Ariel McMillan;Feminino;23/11/1968;56;Analista Sr;Ensino Médio;Logística;5000;17/04/2019;20/06/2019;CLT;Demissão Involuntária;;600;600;600;600;;500;2900;4;6;;55-64;64;1-85
+Maximo Woodson;Masculino;12/04/1972;52;Coordenador;Pós-graduação;TI;10000;17/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;45-54;258;177-269
+Melva de Villier;Feminino;14/08/1989;35;Analista Sr;Ensino Técnico;Logística;5000;17/04/2019;;CLT;;;600;600;600;600;;500;2900;4;-;;35-44;258;177-269
+Pincus Rudman;Masculino;23/02/1961;63;Analista Sr;Pós-graduação;Administração;5000;17/04/2019;;CLT;;;600;600;600;600;;500;2900;4;-;;55-64;258;177-269
+Ashley Claxton;Feminino;20/06/1960;64;Estagiário;Ensino Técnico;Financeiro;1200;18/04/2019;;Estágio;;;200;200;200;200;;;800;4;-;;55-64;257;177-269
+Millie Wilkins;Feminino;28/03/1979;45;Coordenador;Pós-graduação;Marketing;10000;18/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;45-54;257;177-269
+Riannon Chappel;Feminino;07/10/1960;64;Supervisor;Ensino Médio;Vendas;7000;19/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;55-64;256;177-269
+Archie McIleen;Masculino;13/07/1978;46;Gerente;Ensino Médio;Marketing;15000;19/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;45-54;256;177-269
+Tootsie Smouten;Feminino;12/11/1982;42;Assistente;Ensino Superior;Operações;2500;20/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;35-44;255;177-269
+Russell Paschke;Masculino;05/05/1967;57;Assistente;Ensino Médio;Produção;2500;20/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;55-64;255;177-269
+Jonathon Poles;Masculino;17/10/1988;36;Estagiário;Ensino Médio;Logística;1200;21/04/2019;;Estágio;;Sim;200;200;200;200;;;800;4;-;;35-44;254;177-269
+Brannon Quimby;Masculino;19/10/1962;62;Estagiário;Ensino Técnico;Financeiro;1200;21/04/2019;;Estágio;;Sim;200;200;200;200;;;800;4;-;;55-64;254;177-269
+Eustacia Stirman;Feminino;18/09/1986;38;Supervisor;Ensino Técnico;TI;7000;22/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;35-44;253;177-269
+Reagen McGavigan;Masculino;26/01/1978;46;Gerente;Ensino Superior;Recursos Humanos;15000;22/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;45-54;253;177-269
+Scott Shawcross;Masculino;25/04/1974;50;Analista Jr;Ensino Técnico;Marketing;3500;23/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;45-54;252;177-269
+Rinaldo Bullin;Masculino;09/07/1974;50;Analista Jr;Ensino Superior;Logística;3500;23/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;45-54;252;177-269
+Dirk Woolger;Masculino;31/07/1979;45;Coordenador;Ensino Médio;Operações;10000;23/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;45-54;252;177-269
+Christos Blackden;Masculino;02/09/1976;48;Gerente;Pós-graduação;Produção;15000;24/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;45-54;251;177-269
+Terri-jo cornhill;Feminino;31/07/1981;43;Estagiário;Ensino Médio;Logística;1200;24/04/2019;;Estágio;;Sim;200;200;200;200;;;800;4;-;;35-44;251;177-269
+Merrill Rasher;Masculino;29/06/1998;26;Analista Sr;Ensino Médio;Logística;5000;24/04/2019;17/06/2019;CLT;Demissão Involuntária;;600;600;600;600;500;500;3400;4;6;;24-34;54;1-85
+Brion Dyka;Masculino;21/12/1991;33;Analista Sr;Ensino Médio;Financeiro;5000;25/04/2019;;CLT;;;600;600;600;600;;500;2900;4;-;;24-34;250;177-269
+Laureen Rapelli;Feminino;02/05/2000;24;Estagiário;Ensino Médio;Recursos Humanos;1200;25/04/2019;;Estágio;;;200;200;200;200;;;800;4;-;;24-34;250;177-269
+Heriberto Danels;Masculino;10/06/1986;38;Gerente;Pós-graduação;Administração;15000;25/04/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;4;-;;35-44;250;177-269
+Jo-anne MacCarter;Feminino;17/09/1984;40;Analista Sr;Pós-graduação;Financeiro;5000;25/04/2019;;CLT;;;600;600;600;600;;500;2900;4;-;;35-44;250;177-269
+Karolina Beggini;Feminino;23/12/1980;44;Supervisor;Ensino Médio;Financeiro;7000;26/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;35-44;249;177-269
+Brady Huskinson;Masculino;31/12/1986;38;Coordenador;Ensino Médio;Administração;10000;26/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;35-44;249;177-269
+Evyn Piccard;Masculino;12/01/1993;31;Assistente;Ensino Médio;Recursos Humanos;2500;26/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;24-34;249;177-269
+Tori Maleney;Feminino;10/11/1973;51;Gerente;Pós-graduação;TI;15000;27/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;45-54;248;177-269
+Rochette Muddle;Feminino;30/07/1967;57;Analista Sr;Ensino Técnico;Administração;5000;27/04/2019;;CLT;;;600;600;600;600;;500;2900;4;-;Licença;55-64;248;177-269
+Koenraad Newvell;Masculino;31/12/1978;46;Analista Sr;Ensino Médio;Operações;5000;28/04/2019;;CLT;;;600;600;600;600;;500;2900;4;-;;45-54;247;177-269
+Rozella Valett;Feminino;24/08/1960;64;Estagiário;Ensino Técnico;Logística;1200;28/04/2019;16/06/2019;Estágio;Término de Contrato;;200;200;200;200;;;800;4;6;;55-64;49;1-85
+Dori Lowder;Feminino;25/08/1996;28;Gerente;Mestrado;Vendas;15000;29/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;24-34;246;177-269
+Allina Abramsky;Feminino;19/08/1985;39;Gerente;Pós-graduação;Financeiro;15000;29/04/2019;;CLT;;;1200;1200;1200;1200;;500;5300;4;-;;35-44;246;177-269
+Ulrick Betts;Masculino;30/10/1992;32;Analista Jr;Ensino Técnico;Recursos Humanos;3500;29/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;24-34;246;177-269
+Saba Muckersie;Feminino;07/10/1981;43;Analista Sr;Pós-graduação;TI;5000;30/04/2019;;CLT;;;600;600;600;600;;500;2900;4;-;;35-44;245;177-269
+Bale Randalston;Masculino;11/04/1994;30;Estagiário;Ensino Técnico;Produção;1200;30/04/2019;;Estágio;;;200;200;200;200;;;800;4;-;;24-34;245;177-269
+Elianore Worboy;Feminino;24/07/1988;36;Assistente;Ensino Médio;Marketing;2500;30/04/2019;;CLT;;;600;600;600;600;;;2400;4;-;;35-44;245;177-269
+Delmar Lindborg;Masculino;27/05/1974;50;Coordenador;Mestrado;Financeiro;10000;01/05/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;5;-;;45-54;244;177-269
+Frasco Victor;Masculino;09/11/1992;32;Assistente;Ensino Superior;Vendas;2500;01/05/2019;;CLT;;;600;600;600;600;;;2400;5;-;;24-34;244;177-269
+Holly Rubega;Masculino;17/09/1999;25;Analista Jr;Ensino Técnico;Vendas;3500;01/05/2019;20/07/2019;CLT;Demissão Voluntária;;600;600;600;600;;;2400;5;7;;24-34;80;1-85
+Alard Grigolashvill;Masculino;19/02/1970;54;Assistente;Ensino Médio;Logística;2500;02/05/2019;;CLT;;;600;600;600;600;;;2400;5;-;;45-54;243;177-269
+Tobit Duiguid;Masculino;11/11/1965;59;Analista Sr;Ensino Superior;Operações;5000;02/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;55-64;243;177-269
+Clerc Snoxell;Masculino;28/01/1966;58;Analista Jr;Pós-graduação;Financeiro;3500;02/05/2019;;CLT;;;600;600;600;600;500;;2900;5;-;;55-64;243;177-269
+Chris Clemon;Masculino;21/04/1999;25;Analista Sr;Ensino Superior;Logística;5000;03/05/2019;02/07/2019;CLT;Demissão Voluntária;Sim;600;600;600;600;;500;2900;5;7;;24-34;60;1-85
+Wright Gilligan;Masculino;17/03/1968;56;Assistente;Ensino Médio;Produção;2500;04/05/2019;;CLT;;;600;600;600;600;;;2400;5;-;;55-64;241;177-269
+Birgitta Tidy;Feminino;27/11/1986;38;Assistente;Ensino Médio;Financeiro;2500;05/05/2019;;CLT;;;600;600;600;600;500;;2900;5;-;;35-44;240;177-269
+Ware Duffett;Masculino;10/10/1998;26;Coordenador;Ensino Superior;Vendas;10000;05/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;24-34;240;177-269
+Jessica Malt;Feminino;31/08/1963;61;Coordenador;Ensino Médio;TI;10000;05/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;55-64;240;177-269
+Genevra MacGillivrie;Feminino;24/03/1995;29;Analista Sr;Pós-graduação;Recursos Humanos;5000;05/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;24-34;240;177-269
+Danya Kevane;Masculino;09/03/1994;30;Analista Sr;Ensino Superior;Financeiro;5000;05/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;24-34;240;177-269
+Rea Machen;Feminino;02/08/1968;56;Supervisor;Ensino Médio;Operações;7000;06/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;55-64;239;177-269
+Vito Knott;Masculino;13/10/1969;55;Analista Sr;Ensino Médio;Produção;5000;06/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;55-64;239;177-269
+Darcey Pozer;Feminino;25/11/1986;38;Coordenador;Ensino Técnico;Marketing;10000;07/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;35-44;238;177-269
+Fletcher Verner;Masculino;04/04/1980;44;Supervisor;Ensino Médio;Logística;7000;07/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;35-44;238;177-269
+Jessie Vassman;Feminino;12/04/1989;35;Analista Jr;Ensino Superior;Recursos Humanos;3500;07/05/2019;;CLT;;;600;600;600;600;;;2400;5;-;;35-44;238;177-269
+Corinna Crewes;Feminino;12/02/1998;26;Analista Jr;Ensino Superior;Logística;3500;08/05/2019;;CLT;;Sim;600;600;600;600;;;2400;5;-;;24-34;237;177-269
+Sigismund Mitchiner;Masculino;19/12/1974;50;Analista Sr;Ensino Médio;Logística;5000;08/05/2019;;CLT;;Sim;600;600;600;600;;500;2900;5;-;;45-54;237;177-269
+Ignace Rutigliano;Masculino;10/08/1992;32;Supervisor;Ensino Técnico;Financeiro;7000;08/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;24-34;237;177-269
+Edita Godridge;Feminino;23/06/1970;54;Coordenador;Mestrado;Financeiro;10000;09/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;45-54;236;177-269
+Haze Studeart;Masculino;29/05/1965;59;Supervisor;Pós-graduação;Vendas;7000;09/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;55-64;236;177-269
+Jaime Oliffe;Feminino;14/06/1960;64;Estagiário;Ensino Técnico;Vendas;1200;09/05/2019;;Estágio;;;200;200;200;200;500;;1300;5;-;;55-64;236;177-269
+Buckie Rouchy;Masculino;14/02/1993;31;Gerente;Ensino Técnico;Logística;15000;10/05/2019;08/07/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;;500;5300;5;7;;24-34;59;1-85
+Burty Ewbanche;Masculino;14/10/1993;31;Analista Jr;Ensino Médio;Vendas;3500;10/05/2019;;CLT;;;600;600;600;600;;;2400;5;-;;24-34;235;177-269
+Maurice Langdon;Masculino;23/11/1999;25;Gerente;Pós-graduação;Produção;15000;10/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;24-34;235;177-269
+Scott Roo;Masculino;27/03/1997;27;Supervisor;Pós-graduação;Produção;7000;11/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;24-34;234;177-269
+Chico Bratcher;Masculino;09/08/1975;49;Gerente;Pós-graduação;Produção;15000;11/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;45-54;234;177-269
+Massimiliano Sayward;Masculino;30/12/1961;63;Coordenador;Mestrado;TI;10000;11/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;55-64;234;177-269
+Kort Spurier;Masculino;29/02/1980;44;Gerente;Ensino Técnico;Logística;15000;11/05/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;5;-;;35-44;234;177-269
+Terri Perocci;Feminino;23/05/1984;40;Coordenador;Ensino Técnico;Operações;10000;13/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;35-44;232;177-269
+Granthem Sedgebeer;Masculino;03/07/1972;52;Analista Sr;Ensino Técnico;Operações;5000;13/05/2019;;CLT;;Sim;600;600;600;600;;500;2900;5;-;;45-54;232;177-269
+Maren Osban;Feminino;23/06/1976;48;Analista Jr;Ensino Médio;TI;3500;13/05/2019;06/09/2019;CLT;Demissão Involuntária;;600;600;600;600;;;2400;5;9;;45-54;116;86-176
+Scott Pavolini;Masculino;15/12/1971;53;Coordenador;Pós-graduação;Vendas;10000;14/05/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;5;-;;45-54;231;177-269
+Gunther Sterling;Masculino;29/01/1978;46;Analista Jr;Pós-graduação;Logística;3500;15/05/2019;;CLT;;;600;600;600;600;;;2400;5;-;;45-54;230;177-269
+Elisabeth Seyfart;Feminino;17/02/1972;52;Analista Sr;Ensino Superior;Marketing;5000;15/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;45-54;230;177-269
+Fulton Echallier;Masculino;17/09/1991;33;Analista Jr;Ensino Superior;Operações;3500;15/05/2019;;CLT;;;600;600;600;600;;;2400;5;-;;24-34;230;177-269
+Ariadne Rushbury;Feminino;12/03/1964;60;Supervisor;Ensino Médio;TI;7000;15/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;55-64;230;177-269
+Ilyssa Eusden;Feminino;18/02/1974;50;Assistente;Ensino Superior;Operações;2500;16/05/2019;;CLT;;;600;600;600;600;;;2400;5;-;;45-54;229;177-269
+Willey Brunnen;Masculino;01/04/1998;26;Gerente;Ensino Superior;Recursos Humanos;15000;16/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;24-34;229;177-269
+Frederich Buston;Masculino;09/12/1967;57;Supervisor;Ensino Técnico;Operações;7000;16/05/2019;04/09/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;5;9;;55-64;111;86-176
+Tabbie Morgan;Masculino;24/06/1993;31;Coordenador;Ensino Superior;Marketing;10000;16/05/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;5;-;;24-34;229;177-269
+Avram Schoenrock;Masculino;06/11/1994;30;Estagiário;Ensino Técnico;Produção;1200;17/05/2019;;Estágio;;;200;200;200;200;;;800;5;-;;24-34;228;177-269
+Maiga Helliker;Feminino;13/02/1992;32;Supervisor;Ensino Médio;Logística;7000;17/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;24-34;228;177-269
+Justinian Younglove;Masculino;17/04/1986;38;Analista Sr;Ensino Médio;Logística;5000;17/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;35-44;228;177-269
+Lovell Maylor;Masculino;14/09/1993;31;Estagiário;Ensino Técnico;Operações;1200;17/05/2019;;Estágio;;;200;200;200;200;;;800;5;-;;24-34;228;177-269
+Stillman Goodisson;Masculino;16/12/1995;29;Estagiário;Ensino Técnico;Operações;1200;18/05/2019;23/08/2019;Estágio;Término de Contrato;;200;200;200;200;;;800;5;8;;24-34;97;86-176
+Alleen Loraine;Feminino;14/05/2000;24;Assistente;Ensino Superior;Logística;2500;18/05/2019;;CLT;;Sim;600;600;600;600;;;2400;5;-;;24-34;227;177-269
+Aretha Geldard;Feminino;23/12/1973;51;Assistente;Ensino Médio;Recursos Humanos;2500;18/05/2019;;CLT;;Sim;600;600;600;600;500;;2900;5;-;;45-54;227;177-269
+Vale Pentelow;Feminino;08/09/1988;36;Analista Sr;Ensino Médio;Vendas;5000;18/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;35-44;227;177-269
+Zora Navarro;Feminino;24/04/1984;40;Assistente;Ensino Médio;Logística;2500;18/05/2019;01/09/2019;CLT;Demissão Involuntária;;600;600;600;600;;;2400;5;9;;35-44;106;86-176
+Monika Loody;Feminino;18/02/1989;35;Coordenador;Ensino Superior;TI;10000;19/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;35-44;226;177-269
+Herold Iacobo;Masculino;06/12/1970;54;Estagiário;Ensino Médio;Vendas;1200;19/05/2019;;Estágio;;;200;200;200;200;500;;1300;5;-;;45-54;226;177-269
+Meagan De Laspee;Feminino;02/09/1983;41;Supervisor;Ensino Superior;Produção;7000;19/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;35-44;226;177-269
+Jase Schaffel;Masculino;27/12/1975;49;Assistente;Ensino Superior;Operações;2500;19/05/2019;;CLT;;;600;600;600;600;;;2400;5;-;;45-54;226;177-269
+Sheeree Murrells;Feminino;05/04/1984;40;Analista Sr;Pós-graduação;Vendas;5000;19/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;35-44;226;177-269
+Emelen Linscott;Masculino;22/12/2000;24;Gerente;Ensino Técnico;Logística;15000;20/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;24-34;225;177-269
+Daisie Chennells;Feminino;28/12/1972;52;Supervisor;Ensino Superior;Marketing;7000;21/05/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;5;-;Férias;45-54;224;177-269
+Danica Gentiry;Feminino;13/12/1985;39;Analista Sr;Ensino Médio;Administração;5000;21/05/2019;;CLT;;Sim;600;600;600;600;;500;2900;5;-;;35-44;224;177-269
+Haleigh Teas;Feminino;29/05/1994;30;Coordenador;Ensino Médio;Recursos Humanos;10000;22/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;24-34;223;177-269
+Jocelin Wilfinger;Feminino;16/10/1969;55;Analista Jr;Ensino Técnico;Produção;3500;22/05/2019;;CLT;;;600;600;600;600;;;2400;5;-;;55-64;223;177-269
+Russell Sappson;Masculino;18/09/1995;29;Gerente;Pós-graduação;Vendas;15000;22/05/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;5;-;;24-34;223;177-269
+Brittne Tandey;Feminino;22/02/1988;36;Analista Sr;Ensino Superior;Recursos Humanos;5000;23/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;35-44;222;177-269
+Marylin Pedracci;Feminino;17/02/1960;64;Gerente;Ensino Superior;Administração;15000;23/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;55-64;222;177-269
+Lolly Beckhouse;Feminino;22/05/1984;40;Gerente;Pós-graduação;Recursos Humanos;15000;23/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;35-44;222;177-269
+Ashton Lorking;Masculino;20/03/1974;50;Estagiário;Ensino Técnico;Recursos Humanos;1200;23/05/2019;;Estágio;;;200;200;200;200;500;;1300;5;-;;45-54;222;177-269
+Francene St. Leger;Feminino;23/07/1975;49;Analista Sr;Ensino Superior;Marketing;5000;24/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;45-54;221;177-269
+Kattie Sinkin;Feminino;15/08/1978;46;Gerente;Mestrado;Logística;15000;24/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;45-54;221;177-269
+Tommi Cobain;Feminino;28/02/1996;28;Analista Sr;Pós-graduação;TI;5000;24/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;24-34;221;177-269
+Nikolos Heart;Masculino;05/02/2000;24;Gerente;Mestrado;TI;15000;25/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;24-34;220;177-269
+Carilyn Ableson;Feminino;22/07/1989;35;Analista Jr;Ensino Superior;Produção;3500;25/05/2019;;CLT;;Sim;600;600;600;600;;;2400;5;-;;35-44;220;177-269
+Jacklyn Early;Feminino;10/07/1964;60;Estagiário;Ensino Médio;Operações;1200;26/05/2019;;Estágio;;;200;200;200;200;;;800;5;-;;55-64;219;177-269
+Dominica Dodgshon;Feminino;24/04/1965;59;Estagiário;Ensino Técnico;Produção;1200;26/05/2019;;Estágio;;;200;200;200;200;;;800;5;-;Férias;55-64;219;177-269
+Dominique Goodwin;Masculino;21/09/1967;57;Assistente;Ensino Médio;Administração;2500;27/05/2019;;CLT;;;600;600;600;600;;;2400;5;-;;55-64;218;177-269
+Linell Selbach;Feminino;23/01/1975;49;Analista Sr;Ensino Técnico;Administração;5000;27/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;45-54;218;177-269
+Frazer Knutsen;Masculino;23/04/1989;35;Analista Sr;Pós-graduação;Financeiro;5000;28/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;35-44;217;177-269
+Cicely Rash;Feminino;10/04/1977;47;Estagiário;Ensino Técnico;TI;1200;28/05/2019;;Estágio;;;200;200;200;200;;;800;5;-;;45-54;217;177-269
+Mata Raffan;Masculino;15/12/1990;34;Supervisor;Pós-graduação;TI;7000;28/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;24-34;217;177-269
+Jonathon Zum Felde;Masculino;03/07/1960;64;Analista Jr;Ensino Superior;TI;3500;28/05/2019;;CLT;;;600;600;600;600;;;2400;5;-;;55-64;217;177-269
+Aldous Baldassi;Masculino;15/06/1988;36;Estagiário;Ensino Técnico;TI;1200;28/05/2019;;Estágio;;;200;200;200;200;;;800;5;-;;35-44;217;177-269
+Obediah Toomey;Masculino;04/05/1985;39;Analista Sr;Ensino Médio;TI;5000;29/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;35-44;216;177-269
+Antoni Keyser;Masculino;26/05/1964;60;Gerente;Pós-graduação;Financeiro;15000;29/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;55-64;216;177-269
+Ilaire Dinsell;Masculino;03/03/1972;52;Estagiário;Ensino Médio;Produção;1200;30/05/2019;;Estágio;;;200;200;200;200;;;800;5;-;;45-54;215;177-269
+Claudius Torrans;Masculino;26/10/1971;53;Gerente;Ensino Técnico;TI;15000;30/05/2019;15/09/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;5;9;;45-54;108;86-176
+Jedediah Girvin;Masculino;17/08/1983;41;Supervisor;Ensino Médio;Vendas;7000;31/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;35-44;214;177-269
+Page Hassen;Masculino;16/04/1995;29;Analista Sr;Ensino Técnico;Vendas;5000;31/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;24-34;214;177-269
+Lou Byer;Feminino;12/12/1999;25;Supervisor;Pós-graduação;TI;7000;31/05/2019;;CLT;;;1200;1200;1200;1200;;500;5300;5;-;;24-34;214;177-269
+Pattie Stannah;Masculino;10/03/1984;40;Analista Sr;Ensino Médio;Financeiro;5000;31/05/2019;;CLT;;;600;600;600;600;;500;2900;5;-;;35-44;214;177-269
+Justinian Fortie;Masculino;26/05/1964;60;Coordenador;Pós-graduação;Recursos Humanos;10000;31/05/2019;12/08/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;;500;5300;5;8;;55-64;73;1-85
+Guinna Dobney;Feminino;02/01/1982;42;Supervisor;Pós-graduação;Marketing;7000;01/06/2019;10/08/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;;500;5300;6;8;;35-44;70;1-85
+Elvera Peegrem;Feminino;20/11/1971;53;Assistente;Ensino Superior;Logística;2500;01/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;45-54;213;177-269
+Tynan Philo;Masculino;20/01/1984;40;Supervisor;Pós-graduação;Recursos Humanos;7000;02/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;35-44;212;177-269
+Maridel Addeycott;Feminino;26/11/1960;64;Assistente;Ensino Médio;Recursos Humanos;2500;03/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;55-64;211;177-269
+Bevvy Goodbarne;Feminino;02/04/1982;42;Gerente;Ensino Médio;Vendas;15000;03/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;35-44;211;177-269
+Saudra Salack;Feminino;23/04/1975;49;Analista Sr;Ensino Técnico;TI;5000;03/06/2019;;CLT;;;600;600;600;600;;500;2900;6;-;;45-54;211;177-269
+Clovis Moen;Feminino;18/08/1984;40;Analista Jr;Ensino Médio;Marketing;3500;03/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;Férias;35-44;211;177-269
+Katrina Cottis;Feminino;13/12/1962;62;Estagiário;Ensino Médio;Logística;1200;03/06/2019;;Estágio;;;200;200;200;200;;;800;6;-;;55-64;211;177-269
+Irvin Warne;Masculino;05/10/1962;62;Analista Sr;Ensino Médio;Recursos Humanos;5000;04/06/2019;;CLT;;;600;600;600;600;;500;2900;6;-;;55-64;210;177-269
+Hewitt Gabbetis;Masculino;06/02/1978;46;Coordenador;Mestrado;Administração;10000;04/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;45-54;210;177-269
+Coral Vane;Feminino;28/01/1988;36;Gerente;Ensino Médio;Financeiro;15000;05/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;Férias;35-44;209;177-269
+Trina Pettican;Feminino;01/07/1984;40;Analista Sr;Ensino Técnico;Vendas;5000;05/06/2019;;CLT;;;600;600;600;600;;500;2900;6;-;;35-44;209;177-269
+Karlik Blyden;Masculino;19/06/2000;24;Estagiário;Ensino Técnico;Logística;1200;05/06/2019;;Estágio;;;200;200;200;200;;;800;6;-;;24-34;209;177-269
+Elicia Durnell;Feminino;01/09/1972;52;Supervisor;Pós-graduação;Vendas;7000;05/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;45-54;209;177-269
+Phillip Emes;Masculino;26/04/1967;57;Analista Sr;Ensino Médio;TI;5000;06/06/2019;;CLT;;;600;600;600;600;;500;2900;6;-;;55-64;208;177-269
+Ofelia Dedon;Feminino;31/07/1983;41;Gerente;Ensino Superior;Recursos Humanos;15000;07/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;35-44;207;177-269
+Junette Lyste;Feminino;12/05/1960;64;Supervisor;Ensino Superior;Produção;7000;08/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;55-64;206;177-269
+Velma Worsell;Feminino;12/10/1989;35;Gerente;Mestrado;Marketing;15000;09/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;35-44;205;177-269
+Clevey Jupp;Masculino;07/05/1971;53;Analista Jr;Ensino Superior;Logística;3500;09/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;45-54;205;177-269
+Aretha Montier;Feminino;03/06/1962;62;Analista Jr;Ensino Médio;Produção;3500;09/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;55-64;205;177-269
+Julian Smogur;Masculino;06/08/1968;56;Coordenador;Ensino Superior;Vendas;10000;10/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;55-64;204;177-269
+Erl Loudian;Masculino;01/01/1992;32;Estagiário;Ensino Técnico;Financeiro;1200;10/06/2019;;Estágio;;Sim;200;200;200;200;;;800;6;-;;24-34;204;177-269
+Marlo Strase;Masculino;27/03/1998;26;Gerente;Ensino Superior;TI;15000;10/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;24-34;204;177-269
+Keefe Ottosen;Masculino;19/05/1995;29;Analista Jr;Ensino Superior;Administração;3500;10/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;24-34;204;177-269
+Nessa O'Donoghue;Feminino;23/05/1980;44;Coordenador;Pós-graduação;Logística;10000;11/06/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;6;-;;35-44;203;177-269
+Maritsa Caldera;Feminino;14/11/1970;54;Supervisor;Ensino Médio;Logística;7000;11/06/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;6;-;;45-54;203;177-269
+Kristos Wisniewski;Masculino;04/01/1986;38;Estagiário;Ensino Técnico;Administração;1200;11/06/2019;;Estágio;;;200;200;200;200;;;800;6;-;;35-44;203;177-269
+Magdalena Kearn;Feminino;03/06/1998;26;Supervisor;Ensino Superior;Vendas;7000;11/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;24-34;203;177-269
+Tedd Crut;Masculino;22/08/1999;25;Analista Sr;Ensino Técnico;Operações;5000;11/06/2019;;CLT;;;600;600;600;600;;500;2900;6;-;;24-34;203;177-269
+Marin Marmion;Feminino;17/06/1966;58;Analista Jr;Ensino Técnico;Administração;3500;12/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;55-64;202;177-269
+Wilton Asch;Masculino;10/10/1962;62;Estagiário;Ensino Técnico;TI;1200;12/06/2019;;Estágio;;;200;200;200;200;;;800;6;-;;55-64;202;177-269
+Rog Carter;Masculino;04/04/1965;59;Estagiário;Ensino Técnico;TI;1200;12/06/2019;;Estágio;;;200;200;200;200;;;800;6;-;;55-64;202;177-269
+Meryl Fandrich;Masculino;16/12/1974;50;Analista Sr;Ensino Médio;Recursos Humanos;5000;12/06/2019;;CLT;;;600;600;600;600;;500;2900;6;-;;45-54;202;177-269
+Dulcy Ormerod;Feminino;25/01/1994;30;Estagiário;Ensino Técnico;Vendas;1200;12/06/2019;;Estágio;;;200;200;200;200;500;;1300;6;-;;24-34;202;177-269
+Naoma Struis;Feminino;04/11/1964;60;Analista Sr;Ensino Superior;Vendas;5000;13/06/2019;02/08/2019;CLT;Demissão Voluntária;;600;600;600;600;;500;2900;6;8;;55-64;50;1-85
+Verla Daout;Feminino;31/10/1999;25;Analista Sr;Ensino Médio;TI;5000;13/06/2019;;CLT;;;600;600;600;600;;500;2900;6;-;;24-34;201;177-269
+Reginald Fryatt;Masculino;16/04/2000;24;Assistente;Ensino Técnico;Operações;2500;14/06/2019;;CLT;;Sim;600;600;600;600;;;2400;6;-;;24-34;200;177-269
+Kassie Domoni;Feminino;27/08/1976;48;Coordenador;Ensino Superior;Recursos Humanos;10000;14/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;45-54;200;177-269
+Gibbie Kinset;Masculino;02/09/1964;60;Analista Sr;Ensino Superior;Financeiro;5000;14/06/2019;;CLT;;Sim;600;600;600;600;;500;2900;6;-;;55-64;200;177-269
+Wilbur Bingle;Masculino;05/09/2000;24;Supervisor;Pós-graduação;Marketing;7000;14/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;24-34;200;177-269
+Aylmar De Blasi;Masculino;08/02/1986;38;Coordenador;Ensino Técnico;Administração;10000;15/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;35-44;199;177-269
+Kenon Schultze;Masculino;27/11/1993;31;Gerente;Ensino Técnico;Administração;15000;15/06/2019;04/10/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;;500;5300;6;10;;24-34;111;86-176
+Regine Gascoyen;Feminino;30/01/1971;53;Analista Jr;Pós-graduação;Logística;3500;15/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;45-54;199;177-269
+Urbain Le Provest;Masculino;05/01/1981;43;Supervisor;Mestrado;Financeiro;7000;16/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;35-44;198;177-269
+Renato Burkman;Masculino;27/10/1960;64;Estagiário;Ensino Médio;Operações;1200;16/06/2019;;Estágio;;;200;200;200;200;;;800;6;-;;55-64;198;177-269
+Minda Dewitt;Feminino;05/09/1990;34;Estagiário;Ensino Médio;Recursos Humanos;1200;17/06/2019;;Estágio;;;200;200;200;200;;;800;6;-;;24-34;197;177-269
+Meier MacCook;Masculino;31/12/1960;64;Estagiário;Ensino Médio;Recursos Humanos;1200;17/06/2019;;Estágio;;Sim;200;200;200;200;;;800;6;-;;55-64;197;177-269
+Sheri Fuentes;Feminino;27/08/1966;58;Analista Jr;Ensino Técnico;Vendas;3500;18/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;55-64;196;177-269
+Mab Aire;Feminino;04/03/1975;49;Analista Sr;Ensino Superior;Produção;5000;18/06/2019;;CLT;;;600;600;600;600;;500;2900;6;-;;45-54;196;177-269
+Raff Ogles;Masculino;30/05/1985;39;Coordenador;Ensino Superior;TI;10000;18/06/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;6;-;;35-44;196;177-269
+Ethelyn Petrolli;Feminino;20/03/1998;26;Analista Sr;Pós-graduação;Vendas;5000;18/06/2019;;CLT;;;600;600;600;600;;500;2900;6;-;;24-34;196;177-269
+Karon Cawdery;Feminino;09/02/1975;49;Assistente;Ensino Médio;Financeiro;2500;18/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;45-54;196;177-269
+Heidie Spragg;Feminino;23/04/1960;64;Coordenador;Ensino Superior;Vendas;10000;19/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;55-64;195;177-269
+Pippy Cluitt;Feminino;13/05/1998;26;Assistente;Ensino Técnico;Recursos Humanos;2500;19/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;24-34;195;177-269
+Elga Bellefonte;Feminino;12/04/1962;62;Estagiário;Ensino Médio;Marketing;1200;19/06/2019;;Estágio;;;200;200;200;200;;;800;6;-;;55-64;195;177-269
+Saudra Lathan;Feminino;17/08/1989;35;Coordenador;Mestrado;Administração;10000;19/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;35-44;195;177-269
+Francis Petegrew;Masculino;21/03/1969;55;Gerente;Ensino Médio;TI;15000;20/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;55-64;194;177-269
+Seth Reinbach;Masculino;13/02/1961;63;Coordenador;Ensino Médio;Administração;10000;20/06/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;6;-;;55-64;194;177-269
+Julian Guiot;Masculino;29/06/1970;54;Analista Sr;Ensino Técnico;Vendas;5000;20/06/2019;;CLT;;;600;600;600;600;500;500;3400;6;-;;45-54;194;177-269
+Flossie Banbrigge;Feminino;28/06/1993;31;Coordenador;Pós-graduação;Financeiro;10000;20/06/2019;29/09/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;6;9;;24-34;101;86-176
+Verina Elkington;Feminino;11/09/1964;60;Supervisor;Ensino Superior;Produção;7000;21/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;55-64;193;177-269
+Andrea Chisholme;Masculino;11/04/1983;41;Estagiário;Ensino Técnico;Vendas;1200;21/06/2019;;Estágio;;;200;200;200;200;;;800;6;-;;35-44;193;177-269
+Benedict O'Keeffe;Masculino;09/03/1961;63;Estagiário;Ensino Médio;Logística;1200;21/06/2019;;Estágio;;;200;200;200;200;;;800;6;-;;55-64;193;177-269
+Daune Bourbon;Feminino;12/04/1965;59;Supervisor;Ensino Superior;TI;7000;21/06/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;6;-;;55-64;193;177-269
+Skippy Wybron;Masculino;10/02/1967;57;Analista Jr;Pós-graduação;Administração;3500;22/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;55-64;192;177-269
+Staci Churms;Feminino;06/09/1989;35;Assistente;Ensino Técnico;Marketing;2500;22/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;35-44;192;177-269
+Emmey Calow;Feminino;26/06/1986;38;Supervisor;Ensino Superior;Administração;7000;22/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;35-44;192;177-269
+Vittorio Kemery;Masculino;10/06/1982;42;Supervisor;Pós-graduação;Logística;7000;22/06/2019;18/10/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;6;10;;35-44;118;86-176
+Rik Beckmann;Masculino;09/09/1996;28;Analista Sr;Ensino Técnico;Operações;5000;23/06/2019;;CLT;;;600;600;600;600;;500;2900;6;-;;24-34;191;177-269
+Libbie Bothram;Feminino;04/02/1966;58;Estagiário;Ensino Técnico;TI;1200;23/06/2019;;Estágio;;;200;200;200;200;;;800;6;-;;55-64;191;177-269
+Viola Junkinson;Feminino;08/01/1998;26;Supervisor;Pós-graduação;Vendas;7000;23/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;24-34;191;177-269
+Carmita Faull;Feminino;24/06/1991;33;Gerente;Pós-graduação;Marketing;15000;24/06/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;6;-;;24-34;190;177-269
+Johnnie Dumsday;Masculino;16/12/1963;61;Assistente;Ensino Técnico;Administração;2500;24/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;55-64;190;177-269
+Rora Alcide;Feminino;06/04/1974;50;Gerente;Mestrado;Produção;15000;24/06/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;6;-;;45-54;190;177-269
+Britney Abbison;Feminino;26/09/1991;33;Analista Jr;Ensino Médio;Financeiro;3500;24/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;24-34;190;177-269
+Sutherland Dimnage;Masculino;25/12/1969;55;Analista Jr;Pós-graduação;Administração;3500;24/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;55-64;190;177-269
+Dollie Izhak;Feminino;30/08/1982;42;Analista Sr;Pós-graduação;Financeiro;5000;25/06/2019;;CLT;;;600;600;600;600;;500;2900;6;-;;35-44;189;177-269
+Westbrooke Boast;Masculino;04/08/1966;58;Analista Sr;Ensino Médio;Financeiro;5000;25/06/2019;;CLT;;;600;600;600;600;;500;2900;6;-;;55-64;189;177-269
+Lyle Davion;Masculino;01/03/1977;47;Estagiário;Ensino Médio;Marketing;1200;25/06/2019;14/09/2019;Estágio;Término de Contrato;;200;200;200;200;;;800;6;9;;45-54;81;1-85
+Kimble Schiesterl;Masculino;03/06/2000;24;Gerente;Ensino Técnico;Administração;15000;25/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;24-34;189;177-269
+Martguerita Matityahu;Feminino;01/10/1978;46;Analista Sr;Pós-graduação;Administração;5000;26/06/2019;;CLT;;;600;600;600;600;;500;2900;6;-;;45-54;188;177-269
+Evangelin McBlain;Feminino;29/06/1979;45;Gerente;Mestrado;Vendas;15000;26/06/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;6;-;;45-54;188;177-269
+Shauna Ashby;Feminino;13/05/1989;35;Assistente;Ensino Médio;Marketing;2500;27/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;35-44;187;177-269
+Avery Starkings;Masculino;01/04/1974;50;Analista Jr;Ensino Superior;Recursos Humanos;3500;27/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;45-54;187;177-269
+Kaspar Accum;Masculino;12/01/1961;63;Supervisor;Ensino Médio;TI;7000;28/06/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;6;-;;55-64;186;177-269
+Ara Scanlon;Masculino;28/01/1997;27;Estagiário;Ensino Técnico;Operações;1200;29/06/2019;22/08/2019;Estágio;Término de Contrato;;200;200;200;200;500;;1300;6;8;;24-34;54;1-85
+Shanan Hiner;Masculino;05/04/1968;56;Assistente;Ensino Superior;Produção;2500;29/06/2019;;CLT;;;600;600;600;600;;;2400;6;-;;55-64;185;177-269
+Kipp Higginbottam;Feminino;20/09/1971;53;Analista Sr;Ensino Técnico;Vendas;5000;29/06/2019;;CLT;;;600;600;600;600;;500;2900;6;-;;45-54;185;177-269
+Dwight Alker;Masculino;18/01/1981;43;Gerente;Ensino Superior;Logística;15000;29/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;35-44;185;177-269
+Kendal Baert;Masculino;17/08/1981;43;Coordenador;Mestrado;Produção;10000;29/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;35-44;185;177-269
+Ward Divall;Masculino;03/03/1986;38;Coordenador;Ensino Superior;Financeiro;10000;30/06/2019;;CLT;;;1200;1200;1200;1200;;500;5300;6;-;;35-44;184;177-269
+Ricky Merner;Masculino;19/04/1960;64;Supervisor;Ensino Superior;Logística;7000;01/07/2019;03/09/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;7;9;;55-64;64;1-85
+Kelila Maeer;Feminino;19/02/1963;61;Gerente;Pós-graduação;Logística;15000;01/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;Férias;55-64;183;177-269
+Waverley Santacrole;Masculino;21/04/1992;32;Gerente;Ensino Médio;Marketing;15000;01/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;24-34;183;177-269
+Berkley Ratchford;Masculino;28/11/1973;51;Estagiário;Ensino Médio;Financeiro;1200;01/07/2019;;Estágio;;;200;200;200;200;500;;1300;7;-;;45-54;183;177-269
+Gui Kleinfeld;Feminino;02/08/1970;54;Supervisor;Mestrado;Recursos Humanos;7000;02/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;45-54;182;177-269
+Monah Amner;Feminino;12/02/1973;51;Estagiário;Ensino Médio;Operações;1200;02/07/2019;;Estágio;;;200;200;200;200;;;800;7;-;;45-54;182;177-269
+Chicky Diggles;Masculino;30/08/1985;39;Estagiário;Ensino Médio;Marketing;1200;02/07/2019;;Estágio;;;200;200;200;200;500;;1300;7;-;;35-44;182;177-269
+Rowena Swadden;Feminino;01/04/1964;60;Analista Jr;Ensino Médio;Administração;3500;03/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;55-64;181;177-269
+Donn Paver;Masculino;30/09/2000;24;Gerente;Ensino Técnico;Recursos Humanos;15000;03/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;24-34;181;177-269
+Bail Murdoch;Masculino;13/05/1993;31;Gerente;Ensino Técnico;Marketing;15000;04/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;24-34;180;177-269
+Agna Blitz;Feminino;20/07/1994;30;Coordenador;Pós-graduação;Financeiro;10000;05/07/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;7;-;;24-34;179;177-269
+Agace Cleatherow;Feminino;10/09/1972;52;Estagiário;Ensino Técnico;Logística;1200;05/07/2019;;Estágio;;;200;200;200;200;;;800;7;-;;45-54;179;177-269
+Helaine Andrewartha;Feminino;21/07/2000;24;Supervisor;Mestrado;Administração;7000;05/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;24-34;179;177-269
+Quent Onslow;Masculino;13/07/1987;37;Analista Jr;Pós-graduação;Produção;3500;05/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;35-44;179;177-269
+Bert D'Emanuele;Masculino;22/10/2000;24;Coordenador;Ensino Técnico;Financeiro;10000;06/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;24-34;178;177-269
+Veronike Strode;Feminino;01/09/1971;53;Analista Sr;Pós-graduação;Vendas;5000;06/07/2019;;CLT;;;600;600;600;600;;500;2900;7;-;;45-54;178;177-269
+Jessica Jeschner;Feminino;14/12/1987;37;Analista Jr;Ensino Médio;Produção;3500;06/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;35-44;178;177-269
+Melodee Crame;Feminino;11/06/1970;54;Analista Sr;Ensino Superior;Marketing;5000;06/07/2019;;CLT;;;600;600;600;600;;500;2900;7;-;;45-54;178;177-269
+Howard Huckerby;Masculino;03/03/1968;56;Analista Jr;Pós-graduação;Recursos Humanos;3500;06/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;55-64;178;177-269
+Zacharias Karlsson;Masculino;16/07/1976;48;Supervisor;Ensino Médio;Operações;7000;07/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;45-54;177;177-269
+Carleton Fudger;Masculino;05/11/1993;31;Assistente;Ensino Médio;Logística;2500;08/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;24-34;176;86-176
+Nicolais Spadazzi;Masculino;28/06/1969;55;Coordenador;Mestrado;Produção;10000;08/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;55-64;176;86-176
+Clayborne Origan;Masculino;12/09/1974;50;Analista Jr;Pós-graduação;Administração;3500;08/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;45-54;176;86-176
+Celene Mont;Feminino;04/08/1980;44;Gerente;Pós-graduação;Marketing;15000;08/07/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;7;-;Férias;35-44;176;86-176
+Chadwick Ewell;Masculino;20/11/1983;41;Analista Jr;Ensino Médio;Marketing;3500;08/07/2019;;CLT;;;600;600;600;600;500;;2900;7;-;;35-44;176;86-176
+Tamera Attwater;Feminino;30/09/1974;50;Gerente;Ensino Técnico;Vendas;15000;09/07/2019;;CLT;;Sim;1200;1200;1200;1200;500;500;5800;7;-;;45-54;175;86-176
+Lil Baudacci;Feminino;08/12/1970;54;Coordenador;Ensino Superior;Marketing;10000;09/07/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;7;-;;45-54;175;86-176
+Joanne Philipot;Feminino;07/10/1979;45;Analista Sr;Pós-graduação;Vendas;5000;10/07/2019;;CLT;;;600;600;600;600;;500;2900;7;-;;45-54;174;86-176
+Meggie Drache;Feminino;22/01/1983;41;Gerente;Pós-graduação;Vendas;15000;10/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;35-44;174;86-176
+Nevile Alejandri;Masculino;14/09/1982;42;Analista Jr;Ensino Técnico;Produção;3500;11/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;35-44;173;86-176
+Errol Romi;Masculino;26/04/1977;47;Coordenador;Ensino Médio;Vendas;10000;11/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;45-54;173;86-176
+Elroy Tasch;Masculino;09/09/1989;35;Supervisor;Ensino Médio;Marketing;7000;12/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;35-44;172;86-176
+Somerset Pierpoint;Masculino;26/02/1991;33;Gerente;Mestrado;Operações;15000;12/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;24-34;172;86-176
+Tulley Armell;Masculino;21/07/1980;44;Analista Jr;Pós-graduação;Recursos Humanos;3500;12/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;Licença;35-44;172;86-176
+Charita Scandroot;Feminino;16/05/1982;42;Assistente;Ensino Técnico;Operações;2500;12/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;35-44;172;86-176
+Maddalena Ezzle;Feminino;26/11/1990;34;Supervisor;Mestrado;Logística;7000;12/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;24-34;172;86-176
+Jaymee Clemmitt;Feminino;21/04/1964;60;Analista Jr;Pós-graduação;Vendas;3500;14/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;55-64;170;86-176
+Zebadiah Robshaw;Masculino;13/03/1978;46;Estagiário;Ensino Médio;Marketing;1200;14/07/2019;;Estágio;;;200;200;200;200;;;800;7;-;;45-54;170;86-176
+Dionne Thewles;Feminino;12/03/1960;64;Estagiário;Ensino Técnico;Logística;1200;15/07/2019;03/09/2019;Estágio;Demissão Voluntária;;200;200;200;200;;;800;7;9;;55-64;50;1-85
+Jannelle Brachell;Feminino;25/10/1998;26;Gerente;Mestrado;Financeiro;15000;15/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;24-34;169;86-176
+Ferrell Bollen;Masculino;14/02/1964;60;Estagiário;Ensino Técnico;Operações;1200;15/07/2019;02/10/2019;Estágio;Demissão Voluntária;;200;200;200;200;500;;1300;7;10;Férias;55-64;79;1-85
+Charlena Tarry;Feminino;01/01/1970;54;Coordenador;Ensino Técnico;Vendas;10000;15/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;45-54;169;86-176
+Warde Stimpson;Masculino;05/03/1971;53;Assistente;Ensino Técnico;Produção;2500;15/07/2019;;CLT;;Sim;600;600;600;600;;;2400;7;-;;45-54;169;86-176
+Allegra Jellico;Feminino;16/08/1970;54;Coordenador;Mestrado;Operações;10000;16/07/2019;;CLT;;Sim;1200;1200;1200;1200;500;500;5800;7;-;;45-54;168;86-176
+Sybilla Getley;Feminino;19/01/1970;54;Supervisor;Ensino Médio;Recursos Humanos;7000;16/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;45-54;168;86-176
+Gilemette Belham;Feminino;21/03/1965;59;Analista Sr;Ensino Superior;Marketing;5000;16/07/2019;;CLT;;;600;600;600;600;;500;2900;7;-;;55-64;168;86-176
+Guss Lesley;Masculino;13/09/1996;28;Coordenador;Pós-graduação;Produção;10000;17/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;24-34;167;86-176
+Mendie Rediers;Masculino;09/01/1980;44;Supervisor;Ensino Médio;Marketing;7000;17/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;35-44;167;86-176
+Jacintha Bonifas;Feminino;12/08/1974;50;Supervisor;Ensino Médio;Recursos Humanos;7000;17/07/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;7;-;;45-54;167;86-176
+Aldus Merritt;Masculino;05/03/1982;42;Supervisor;Ensino Superior;Operações;7000;18/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;35-44;166;86-176
+Hanna Jorry;Feminino;23/03/1970;54;Coordenador;Ensino Técnico;Vendas;10000;18/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;45-54;166;86-176
+Deeyn Carling;Feminino;12/10/1963;61;Coordenador;Ensino Técnico;Vendas;10000;19/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;55-64;165;86-176
+Felicle Wickstead;Feminino;11/08/1974;50;Estagiário;Ensino Técnico;Financeiro;1200;19/07/2019;;Estágio;;;200;200;200;200;;;800;7;-;;45-54;165;86-176
+Lewes Buckles;Masculino;17/12/1965;59;Estagiário;Ensino Técnico;TI;1200;19/07/2019;;Estágio;;;200;200;200;200;;;800;7;-;;55-64;165;86-176
+Janis Dell'Abbate;Feminino;26/03/1999;25;Gerente;Mestrado;Financeiro;15000;19/07/2019;18/09/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;7;9;;24-34;61;1-85
+Maximilian Rubinsohn;Masculino;03/04/1978;46;Assistente;Ensino Técnico;Financeiro;2500;19/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;45-54;165;86-176
+Abdel Farington;Masculino;29/07/1993;31;Gerente;Mestrado;Logística;15000;19/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;24-34;165;86-176
+Angelia Brisland;Feminino;27/06/1977;47;Coordenador;Ensino Médio;TI;10000;20/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;45-54;164;86-176
+Opaline De Filippi;Feminino;19/11/2000;24;Estagiário;Ensino Técnico;Marketing;1200;20/07/2019;;Estágio;;;200;200;200;200;;;800;7;-;;24-34;164;86-176
+Dall Clubb;Masculino;23/01/1988;36;Estagiário;Ensino Técnico;Vendas;1200;20/07/2019;;Estágio;;;200;200;200;200;;;800;7;-;;35-44;164;86-176
+Trefor Breese;Masculino;07/01/1998;26;Gerente;Ensino Técnico;Financeiro;15000;21/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;24-34;163;86-176
+Pammy Corzor;Feminino;28/08/1987;37;Gerente;Pós-graduação;Marketing;15000;22/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;35-44;162;86-176
+Allina Gantz;Feminino;19/02/1995;29;Estagiário;Ensino Técnico;Marketing;1200;22/07/2019;;Estágio;;;200;200;200;200;;;800;7;-;;24-34;162;86-176
+Kelcey Franciskiewicz;Feminino;12/02/1973;51;Gerente;Ensino Técnico;Administração;15000;22/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;45-54;162;86-176
+Kenyon Sach;Masculino;16/12/1961;63;Coordenador;Pós-graduação;Recursos Humanos;10000;23/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;55-64;161;86-176
+Aurthur Haughin;Masculino;08/05/1979;45;Estagiário;Ensino Técnico;Produção;1200;23/07/2019;;Estágio;;Sim;200;200;200;200;;;800;7;-;Férias;45-54;161;86-176
+Allina Danell;Feminino;17/05/1989;35;Estagiário;Ensino Médio;Financeiro;1200;24/07/2019;;Estágio;;;200;200;200;200;;;800;7;-;;35-44;160;86-176
+Retha Dimmick;Feminino;29/04/1971;53;Gerente;Ensino Técnico;Logística;15000;24/07/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;7;-;;45-54;160;86-176
+Ilyse Benallack;Feminino;16/05/1960;64;Assistente;Ensino Técnico;Logística;2500;25/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;55-64;159;86-176
+Deb Clavering;Feminino;21/10/1960;64;Coordenador;Pós-graduação;Recursos Humanos;10000;26/07/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;7;-;;55-64;158;86-176
+Garth Whiffen;Masculino;22/03/1965;59;Estagiário;Ensino Médio;TI;1200;26/07/2019;;Estágio;;;200;200;200;200;;;800;7;-;;55-64;158;86-176
+Mitchael Shenfish;Masculino;10/05/1989;35;Gerente;Pós-graduação;TI;15000;27/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;35-44;157;86-176
+Aaron Halbeard;Masculino;09/04/1969;55;Analista Sr;Ensino Médio;Operações;5000;27/07/2019;;CLT;;;600;600;600;600;;500;2900;7;-;;55-64;157;86-176
+Osmond Emmatt;Masculino;14/06/1979;45;Analista Sr;Ensino Superior;TI;5000;27/07/2019;;CLT;;;600;600;600;600;;500;2900;7;-;;45-54;157;86-176
+Lauraine Skipworth;Feminino;19/03/1973;51;Coordenador;Mestrado;Produção;10000;27/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;45-54;157;86-176
+Merlina Scalia;Feminino;15/09/1968;56;Assistente;Ensino Médio;Produção;2500;28/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;55-64;156;86-176
+Camille Kikke;Feminino;16/09/1998;26;Analista Jr;Ensino Médio;Produção;3500;28/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;24-34;156;86-176
+Joli Rookeby;Feminino;23/05/1981;43;Gerente;Ensino Técnico;TI;15000;28/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;35-44;156;86-176
+Filippa Caldairou;Feminino;24/11/1971;53;Assistente;Ensino Técnico;Produção;2500;28/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;45-54;156;86-176
+Valera Haggart;Feminino;04/04/1967;57;Coordenador;Ensino Técnico;Operações;10000;28/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;55-64;156;86-176
+Craggie Janicijevic;Masculino;04/11/1987;37;Coordenador;Ensino Superior;Recursos Humanos;10000;29/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;35-44;155;86-176
+Rakel McEvoy;Feminino;23/04/1961;63;Supervisor;Ensino Médio;Recursos Humanos;7000;30/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;55-64;154;86-176
+Donovan Cawthera;Masculino;12/02/1963;61;Supervisor;Ensino Superior;Administração;7000;30/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;55-64;154;86-176
+Reagan Nono;Masculino;11/02/1983;41;Assistente;Ensino Médio;Logística;2500;31/07/2019;;CLT;;;600;600;600;600;;;2400;7;-;;35-44;153;86-176
+Gerianna Edowes;Feminino;26/05/1995;29;Coordenador;Ensino Técnico;Marketing;10000;31/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;24-34;153;86-176
+Bearnard Gourley;Masculino;13/01/1988;36;Analista Sr;Pós-graduação;Recursos Humanos;5000;31/07/2019;;CLT;;;600;600;600;600;;500;2900;7;-;;35-44;153;86-176
+Derek Tomaello;Masculino;04/12/1982;42;Supervisor;Ensino Técnico;Vendas;7000;31/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;35-44;153;86-176
+Ross Billanie;Masculino;01/06/1996;28;Gerente;Ensino Superior;Vendas;15000;31/07/2019;;CLT;;;1200;1200;1200;1200;;500;5300;7;-;;24-34;153;86-176
+Stormy Hamshere;Feminino;05/08/1974;50;Gerente;Mestrado;Produção;15000;31/07/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;7;-;;45-54;153;86-176
+Wilbert Gerhold;Masculino;13/09/1999;25;Estagiário;Ensino Técnico;Vendas;1200;01/08/2019;;Estágio;;;200;200;200;200;;;800;8;-;;24-34;152;86-176
+Revkah Nowlan;Feminino;30/05/1992;32;Estagiário;Ensino Médio;Financeiro;1200;01/08/2019;;Estágio;;;200;200;200;200;;;800;8;-;;24-34;152;86-176
+Chadwick Collingwood;Masculino;11/08/1965;59;Analista Jr;Pós-graduação;TI;3500;01/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;55-64;152;86-176
+Ring Tailour;Masculino;17/05/1986;38;Gerente;Ensino Técnico;Operações;15000;02/08/2019;;CLT;;Sim;1200;1200;1200;1200;500;500;5800;8;-;Licença;35-44;151;86-176
+Matthaeus Backshell;Masculino;02/08/1977;47;Analista Jr;Ensino Superior;Operações;3500;02/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;45-54;151;86-176
+Manda Leads;Feminino;31/05/1964;60;Analista Jr;Pós-graduação;Operações;3500;03/08/2019;;CLT;;;600;600;600;600;500;;2900;8;-;;55-64;150;86-176
+Rance Uttley;Masculino;11/04/1974;50;Coordenador;Mestrado;Vendas;10000;03/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;45-54;150;86-176
+Nona Cohen;Feminino;29/04/1995;29;Coordenador;Ensino Técnico;Logística;10000;03/08/2019;24/11/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;8;11;Licença;24-34;113;86-176
+Percy Leighton;Masculino;04/05/1976;48;Estagiário;Ensino Médio;Marketing;1200;03/08/2019;;Estágio;;;200;200;200;200;;;800;8;-;;45-54;150;86-176
+Shalna Clausen;Feminino;01/10/1988;36;Analista Jr;Pós-graduação;Logística;3500;04/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;35-44;149;86-176
+Tadeas Fontanet;Masculino;06/12/2000;24;Assistente;Ensino Superior;TI;2500;04/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;24-34;149;86-176
+Bogart Goldsack;Masculino;16/12/1995;29;Analista Sr;Pós-graduação;Produção;5000;05/08/2019;;CLT;;Sim;600;600;600;600;;500;2900;8;-;;24-34;148;86-176
+Beatrix Mount;Feminino;24/03/1992;32;Analista Sr;Pós-graduação;Produção;5000;05/08/2019;;CLT;;Sim;600;600;600;600;;500;2900;8;-;;24-34;148;86-176
+Aile Kencott;Feminino;17/05/1973;51;Supervisor;Ensino Superior;Produção;7000;05/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;45-54;148;86-176
+Wrennie Di Carlo;Feminino;20/12/1984;40;Supervisor;Ensino Superior;Operações;7000;06/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;35-44;147;86-176
+Alicea Donlon;Feminino;27/10/1984;40;Supervisor;Ensino Superior;Logística;7000;06/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;35-44;147;86-176
+Ebenezer Hamblyn;Masculino;06/08/1974;50;Gerente;Ensino Superior;Financeiro;15000;06/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;45-54;147;86-176
+Winthrop Capozzi;Masculino;31/07/1996;28;Coordenador;Ensino Médio;Recursos Humanos;10000;06/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;24-34;147;86-176
+Shanan Saladine;Masculino;16/01/1964;60;Coordenador;Mestrado;Financeiro;10000;06/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;55-64;147;86-176
+Deane Catherine;Masculino;05/09/1962;62;Gerente;Ensino Superior;Logística;15000;06/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;55-64;147;86-176
+Ofella Cleary;Feminino;11/10/1970;54;Analista Sr;Ensino Superior;Administração;5000;06/08/2019;;CLT;;;600;600;600;600;;500;2900;8;-;;45-54;147;86-176
+Melisent Freeland;Feminino;19/02/1960;64;Estagiário;Ensino Médio;Administração;1200;07/08/2019;;Estágio;;;200;200;200;200;;;800;8;-;;55-64;146;86-176
+Bucky Getcliffe;Masculino;12/01/1989;35;Assistente;Ensino Médio;Marketing;2500;08/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;35-44;145;86-176
+Christina Swetmore;Feminino;29/12/1972;52;Assistente;Ensino Médio;Vendas;2500;09/08/2019;;CLT;;Sim;600;600;600;600;;;2400;8;-;;45-54;144;86-176
+Vasilis MacGovern;Masculino;26/07/1966;58;Analista Jr;Ensino Técnico;Recursos Humanos;3500;09/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;55-64;144;86-176
+Crystal Frear;Feminino;02/03/1963;61;Assistente;Ensino Superior;Operações;2500;09/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;55-64;144;86-176
+Forest Mullany;Masculino;26/10/1966;58;Analista Sr;Ensino Técnico;Produção;5000;10/08/2019;;CLT;;;600;600;600;600;;500;2900;8;-;;55-64;143;86-176
+Kaitlyn Atton;Feminino;18/08/1966;58;Estagiário;Ensino Médio;Produção;1200;10/08/2019;28/09/2019;Estágio;Término de Contrato;;200;200;200;200;;;800;8;9;;55-64;49;1-85
+Carver Muglestone;Masculino;31/12/1965;59;Coordenador;Ensino Médio;Operações;10000;11/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;55-64;142;86-176
+Ella Beech;Feminino;03/03/1988;36;Supervisor;Ensino Médio;TI;7000;11/08/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;8;-;;35-44;142;86-176
+Wilmer Sayward;Masculino;04/12/1960;64;Supervisor;Ensino Superior;Recursos Humanos;7000;11/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;55-64;142;86-176
+Matthias Latimer;Masculino;17/12/1984;40;Analista Jr;Ensino Superior;Financeiro;3500;11/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;Férias;35-44;142;86-176
+Maurits Fright;Masculino;08/04/1972;52;Supervisor;Mestrado;TI;7000;11/08/2019;01/12/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;8;12;;45-54;112;86-176
+Packston Stutt;Masculino;06/05/2000;24;Analista Sr;Ensino Médio;Recursos Humanos;5000;12/08/2019;29/10/2019;CLT;Demissão Voluntária;;600;600;600;600;;500;2900;8;10;;24-34;78;1-85
+Fred Fawdery;Feminino;16/07/1982;42;Assistente;Ensino Médio;TI;2500;12/08/2019;07/12/2019;CLT;Demissão Voluntária;;600;600;600;600;;;2400;8;12;;35-44;117;86-176
+Florance Piggen;Feminino;02/12/1990;34;Coordenador;Ensino Médio;Vendas;10000;14/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;24-34;139;86-176
+Mose Horburgh;Masculino;06/08/1981;43;Analista Sr;Ensino Médio;Operações;5000;14/08/2019;;CLT;;;600;600;600;600;500;500;3400;8;-;;35-44;139;86-176
+Jaimie Bernli;Feminino;29/07/1997;27;Analista Sr;Ensino Médio;Operações;5000;15/08/2019;;CLT;;Sim;600;600;600;600;500;500;3400;8;-;;24-34;138;86-176
+Shayne Darnell;Masculino;11/05/1966;58;Gerente;Mestrado;TI;15000;15/08/2019;10/12/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;;500;5300;8;12;;55-64;117;86-176
+Demetra Hallatt;Feminino;12/11/2000;24;Analista Sr;Ensino Médio;Logística;5000;15/08/2019;;CLT;;;600;600;600;600;;500;2900;8;-;;24-34;138;86-176
+Gertruda Lavelle;Feminino;04/06/1979;45;Analista Jr;Pós-graduação;TI;3500;15/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;45-54;138;86-176
+Kenny Granville;Masculino;22/09/1994;30;Assistente;Ensino Superior;Financeiro;2500;16/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;24-34;137;86-176
+Angus Glading;Masculino;01/10/1961;63;Gerente;Ensino Superior;Recursos Humanos;15000;17/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;55-64;136;86-176
+Wallache Lethardy;Masculino;10/10/1974;50;Gerente;Ensino Médio;Operações;15000;17/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;45-54;136;86-176
+Enrika Beeby;Feminino;10/06/1981;43;Supervisor;Pós-graduação;Administração;7000;17/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;35-44;136;86-176
+Leisha Yu;Feminino;03/01/1998;26;Analista Jr;Ensino Técnico;Recursos Humanos;3500;17/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;24-34;136;86-176
+Kaylee Shillaker;Feminino;15/09/1994;30;Supervisor;Ensino Médio;Recursos Humanos;7000;18/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;24-34;135;86-176
+Halie Ramsier;Feminino;26/08/1985;39;Estagiário;Ensino Técnico;Produção;1200;18/08/2019;;Estágio;;;200;200;200;200;;;800;8;-;;35-44;135;86-176
+Niles Brugsma;Masculino;01/10/1998;26;Analista Jr;Pós-graduação;Administração;3500;18/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;24-34;135;86-176
+Lola Gracey;Feminino;15/06/1985;39;Supervisor;Mestrado;Marketing;7000;19/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;35-44;134;86-176
+Brice Casburn;Masculino;28/05/1989;35;Assistente;Ensino Superior;Financeiro;2500;20/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;35-44;133;86-176
+Zachariah Horbath;Masculino;27/03/1971;53;Estagiário;Ensino Médio;Vendas;1200;20/08/2019;;Estágio;;;200;200;200;200;;;800;8;-;;45-54;133;86-176
+Gavin MacKaig;Masculino;26/06/1992;32;Coordenador;Mestrado;Vendas;10000;20/08/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;8;-;;24-34;133;86-176
+Opal Depke;Feminino;30/12/1980;44;Analista Sr;Ensino Técnico;Produção;5000;20/08/2019;;CLT;;;600;600;600;600;;500;2900;8;-;;35-44;133;86-176
+Hamil Olivas;Masculino;13/02/1963;61;Coordenador;Ensino Médio;Produção;10000;21/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;55-64;132;86-176
+Tibold Riseley;Masculino;27/01/1985;39;Analista Sr;Pós-graduação;Marketing;5000;21/08/2019;;CLT;;;600;600;600;600;;500;2900;8;-;;35-44;132;86-176
+Barr Dugue;Masculino;18/03/1967;57;Coordenador;Pós-graduação;Operações;10000;21/08/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;8;-;;55-64;132;86-176
+Doralynne Areles;Feminino;08/05/1964;60;Coordenador;Ensino Superior;Vendas;10000;22/08/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;8;-;;55-64;131;86-176
+Ola Have;Feminino;22/08/1983;41;Assistente;Ensino Técnico;Recursos Humanos;2500;22/08/2019;;CLT;;Sim;600;600;600;600;;;2400;8;-;;35-44;131;86-176
+Mabelle Cockings;Feminino;30/06/1994;30;Supervisor;Mestrado;Recursos Humanos;7000;22/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;24-34;131;86-176
+Elicia Ternott;Feminino;30/11/1963;61;Estagiário;Ensino Médio;Logística;1200;23/08/2019;;Estágio;;;200;200;200;200;;;800;8;-;;55-64;130;86-176
+Erika Shawyers;Feminino;23/05/1988;36;Assistente;Ensino Superior;Financeiro;2500;23/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;35-44;130;86-176
+Aksel Coburn;Masculino;02/03/1985;39;Analista Jr;Ensino Técnico;Vendas;3500;23/08/2019;15/10/2019;CLT;Demissão Voluntária;;600;600;600;600;;;2400;8;10;;35-44;53;1-85
+Rog Edinburough;Masculino;11/08/1975;49;Assistente;Ensino Superior;Administração;2500;23/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;45-54;130;86-176
+Agnesse De Wolfe;Feminino;31/05/1960;64;Analista Sr;Pós-graduação;Produção;5000;24/08/2019;;CLT;;;600;600;600;600;;500;2900;8;-;;55-64;129;86-176
+Sid Wybrew;Masculino;08/06/1987;37;Coordenador;Pós-graduação;Produção;10000;24/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;35-44;129;86-176
+Dorree Pugh;Feminino;19/08/1993;31;Coordenador;Pós-graduação;Operações;10000;24/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;24-34;129;86-176
+Leontine Werrett;Feminino;09/06/1963;61;Assistente;Ensino Médio;Vendas;2500;24/08/2019;;CLT;;;600;600;600;600;500;;2900;8;-;;55-64;129;86-176
+Janene Le Monnier;Feminino;03/08/2000;24;Gerente;Ensino Médio;Marketing;15000;24/08/2019;21/12/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;8;12;;24-34;119;86-176
+Salem Given;Masculino;28/08/1990;34;Gerente;Mestrado;Administração;15000;24/08/2019;01/12/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;8;12;;24-34;99;86-176
+Madelyn Jancar;Feminino;10/11/1996;28;Estagiário;Ensino Médio;Operações;1200;25/08/2019;;Estágio;;;200;200;200;200;;;800;8;-;;24-34;128;86-176
+Nicole De Angelis;Feminino;29/01/1979;45;Analista Sr;Ensino Técnico;Marketing;5000;26/08/2019;07/11/2019;CLT;Demissão Voluntária;;600;600;600;600;;500;2900;8;11;;45-54;73;1-85
+Doretta Tilford;Feminino;20/02/1979;45;Assistente;Ensino Superior;Financeiro;2500;26/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;45-54;127;86-176
+Gabriellia Linzee;Feminino;10/07/1986;38;Supervisor;Pós-graduação;Vendas;7000;27/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;35-44;126;86-176
+Arly Shafe;Feminino;03/10/1981;43;Analista Jr;Ensino Superior;Marketing;3500;27/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;35-44;126;86-176
+Nydia Haldenby;Feminino;02/05/1986;38;Estagiário;Ensino Técnico;Administração;1200;27/08/2019;;Estágio;;;200;200;200;200;;;800;8;-;;35-44;126;86-176
+Bartlett Ballchin;Masculino;11/03/1981;43;Analista Sr;Ensino Superior;Operações;5000;27/08/2019;;CLT;;;600;600;600;600;500;500;3400;8;-;;35-44;126;86-176
+Ethelin Micklem;Feminino;14/11/1975;49;Gerente;Ensino Técnico;Administração;15000;27/08/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;8;-;;45-54;126;86-176
+Tessy Duddy;Feminino;21/12/1979;45;Estagiário;Ensino Técnico;Marketing;1200;27/08/2019;;Estágio;;;200;200;200;200;;;800;8;-;;45-54;126;86-176
+Ogden Van der Beek;Masculino;02/11/1970;54;Estagiário;Ensino Médio;Operações;1200;28/08/2019;;Estágio;;;200;200;200;200;;;800;8;-;;45-54;125;86-176
+Gib Nern;Masculino;31/12/1992;32;Gerente;Mestrado;Produção;15000;28/08/2019;23/11/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;;500;5300;8;11;;24-34;87;86-176
+Alisa Hutchens;Feminino;11/03/1967;57;Coordenador;Ensino Médio;Administração;10000;28/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;55-64;125;86-176
+Verina Kirsch;Feminino;18/07/1989;35;Estagiário;Ensino Médio;Vendas;1200;28/08/2019;;Estágio;;Sim;200;200;200;200;;;800;8;-;;35-44;125;86-176
+Juanita Segoe;Feminino;06/08/1978;46;Coordenador;Ensino Médio;Marketing;10000;28/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;45-54;125;86-176
+Blane Roderick;Masculino;12/07/1968;56;Analista Sr;Ensino Médio;Marketing;5000;29/08/2019;;CLT;;;600;600;600;600;;500;2900;8;-;;55-64;124;86-176
+Ileana O'Cannan;Feminino;21/03/1963;61;Assistente;Ensino Médio;Vendas;2500;29/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;55-64;124;86-176
+Reinhold Kunzler;Masculino;25/08/1987;37;Gerente;Pós-graduação;Administração;15000;31/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;35-44;122;86-176
+Broddy Libri;Masculino;21/04/1994;30;Assistente;Ensino Técnico;Recursos Humanos;2500;31/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;24-34;122;86-176
+Cary Stanyland;Masculino;03/10/1968;56;Supervisor;Ensino Médio;Recursos Humanos;7000;31/08/2019;;CLT;;;1200;1200;1200;1200;;500;5300;8;-;;55-64;122;86-176
+Mercie Burner;Feminino;15/03/1991;33;Analista Jr;Ensino Técnico;Financeiro;3500;31/08/2019;;CLT;;;600;600;600;600;;;2400;8;-;;24-34;122;86-176
+Bryon Twitchett;Masculino;30/04/1969;55;Coordenador;Ensino Superior;Marketing;10000;01/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;55-64;121;86-176
+Pate Steanson;Masculino;08/12/1979;45;Coordenador;Ensino Técnico;Financeiro;10000;02/09/2019;17/11/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;9;11;;45-54;76;1-85
+Vinnie Sidary;Feminino;15/07/1966;58;Coordenador;Ensino Superior;Recursos Humanos;10000;02/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;55-64;120;86-176
+Lilyan Bartolomeo;Feminino;14/01/1984;40;Analista Sr;Ensino Superior;Operações;5000;04/09/2019;17/12/2019;CLT;Demissão Involuntária;;600;600;600;600;;500;2900;9;12;;35-44;104;86-176
+Herman Flanner;Masculino;13/11/1971;53;Assistente;Ensino Médio;Vendas;2500;04/09/2019;;CLT;;;600;600;600;600;500;;2900;9;-;;45-54;118;86-176
+Clem Ferrao;Masculino;18/05/1993;31;Supervisor;Ensino Superior;Vendas;7000;04/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;24-34;118;86-176
+Bary Ballham;Masculino;14/07/1977;47;Estagiário;Ensino Médio;Administração;1200;05/09/2019;28/10/2019;Estágio;Demissão Voluntária;;200;200;200;200;;;800;9;10;;45-54;53;1-85
+Kristo Belle;Masculino;26/05/1968;56;Supervisor;Mestrado;Operações;7000;05/09/2019;11/12/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;;500;5300;9;12;;55-64;97;86-176
+Riobard Magor;Masculino;10/06/1971;53;Estagiário;Ensino Técnico;Operações;1200;05/09/2019;;Estágio;;;200;200;200;200;;;800;9;-;;45-54;117;86-176
+Ashely Meininger;Feminino;03/02/1995;29;Supervisor;Ensino Superior;Produção;7000;06/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;24-34;116;86-176
+Shurlocke Wilkowski;Masculino;08/07/1970;54;Supervisor;Ensino Técnico;Financeiro;7000;06/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;45-54;116;86-176
+Dimitri Bryning;Masculino;19/10/1974;50;Supervisor;Ensino Superior;Vendas;7000;07/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;45-54;115;86-176
+Irena Ninotti;Feminino;09/01/1974;50;Analista Sr;Ensino Superior;Produção;5000;08/09/2019;;CLT;;;600;600;600;600;;500;2900;9;-;;45-54;114;86-176
+Gustie Dungate;Feminino;29/04/1963;61;Assistente;Ensino Superior;Produção;2500;08/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;55-64;114;86-176
+Trina Abrahamsen;Feminino;13/04/1966;58;Assistente;Ensino Técnico;Administração;2500;08/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;Férias;55-64;114;86-176
+Mercedes Piggrem;Feminino;06/09/1975;49;Analista Sr;Pós-graduação;Recursos Humanos;5000;09/09/2019;;CLT;;Sim;600;600;600;600;;500;2900;9;-;;45-54;113;86-176
+Minni Anthes;Feminino;12/12/1962;62;Assistente;Ensino Técnico;Marketing;2500;09/09/2019;;CLT;;Sim;600;600;600;600;;;2400;9;-;;55-64;113;86-176
+Nathanial Leftly;Masculino;04/08/1979;45;Coordenador;Mestrado;Financeiro;10000;09/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;45-54;113;86-176
+Aurthur Ragg;Masculino;09/10/1995;29;Supervisor;Ensino Superior;Recursos Humanos;7000;10/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;24-34;112;86-176
+Timothy Beevis;Masculino;28/07/1992;32;Analista Jr;Pós-graduação;TI;3500;10/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;24-34;112;86-176
+Althea Boggis;Feminino;11/07/1979;45;Analista Sr;Pós-graduação;TI;5000;11/09/2019;;CLT;;;600;600;600;600;;500;2900;9;-;;45-54;111;86-176
+Griffin Juliano;Masculino;26/01/1982;42;Coordenador;Pós-graduação;Marketing;10000;11/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;35-44;111;86-176
+Katalin Scarce;Feminino;20/12/1974;50;Analista Jr;Ensino Técnico;Financeiro;3500;12/09/2019;;CLT;;Sim;600;600;600;600;;;2400;9;-;;45-54;110;86-176
+Ari Kirwood;Masculino;04/08/1962;62;Analista Jr;Pós-graduação;Marketing;3500;12/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;55-64;110;86-176
+Moishe Jerisch;Masculino;29/11/1967;57;Coordenador;Pós-graduação;Financeiro;10000;13/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;55-64;109;86-176
+Tomi Mennear;Feminino;28/01/1967;57;Analista Sr;Ensino Técnico;Operações;5000;13/09/2019;;CLT;;Sim;600;600;600;600;500;500;3400;9;-;;55-64;109;86-176
+Chev Rollings;Masculino;31/03/1992;32;Coordenador;Ensino Técnico;Operações;10000;14/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;24-34;108;86-176
+Georgetta McLice;Feminino;30/12/1982;42;Gerente;Ensino Superior;Recursos Humanos;15000;14/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;35-44;108;86-176
+Jerrold Solway;Masculino;17/10/1973;51;Analista Jr;Ensino Técnico;Recursos Humanos;3500;14/09/2019;25/12/2019;CLT;Demissão Involuntária;;600;600;600;600;;;2400;9;12;;45-54;102;86-176
+Babbie Shacklady;Feminino;14/07/1965;59;Estagiário;Ensino Médio;Recursos Humanos;1200;14/09/2019;;Estágio;;;200;200;200;200;;;800;9;-;;55-64;108;86-176
+Tomaso Eayrs;Masculino;22/04/1995;29;Assistente;Ensino Médio;TI;2500;16/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;24-34;106;86-176
+Bogey Piechnik;Masculino;26/11/1987;37;Analista Sr;Ensino Técnico;Marketing;5000;16/09/2019;;CLT;;Sim;600;600;600;600;;500;2900;9;-;;35-44;106;86-176
+Dosi Monksfield;Feminino;24/08/1983;41;Coordenador;Ensino Técnico;Operações;10000;16/09/2019;19/11/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;9;11;Férias;35-44;64;1-85
+Lucais Langwade;Masculino;16/01/1970;54;Assistente;Ensino Técnico;Logística;2500;16/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;45-54;106;86-176
+Thorin Cicculini;Masculino;21/05/1965;59;Assistente;Ensino Superior;Vendas;2500;16/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;55-64;106;86-176
+Carla Quennell;Feminino;27/01/1989;35;Supervisor;Ensino Técnico;Administração;7000;17/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;35-44;105;86-176
+Marice Glavis;Feminino;11/05/1985;39;Analista Sr;Pós-graduação;Administração;5000;17/09/2019;;CLT;;;600;600;600;600;;500;2900;9;-;;35-44;105;86-176
+Geralda Bestwall;Feminino;13/03/1999;25;Analista Sr;Ensino Superior;Operações;5000;17/09/2019;;CLT;;;600;600;600;600;;500;2900;9;-;;24-34;105;86-176
+Manon Hutchins;Feminino;08/05/1966;58;Gerente;Pós-graduação;Vendas;15000;18/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;55-64;104;86-176
+Eula Houndesome;Feminino;24/12/1986;38;Analista Jr;Ensino Superior;Logística;3500;19/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;35-44;103;86-176
+Lowell Bwy;Masculino;29/09/1985;39;Supervisor;Ensino Médio;Logística;7000;19/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;35-44;103;86-176
+Jerald Pierse;Masculino;09/11/1988;36;Assistente;Ensino Técnico;Operações;2500;20/09/2019;22/11/2019;CLT;Demissão Involuntária;;600;600;600;600;;;2400;9;11;;35-44;63;1-85
+Kirsteni Polack;Feminino;03/03/1974;50;Analista Sr;Ensino Superior;Produção;5000;20/09/2019;02/12/2019;CLT;Demissão Involuntária;;600;600;600;600;;500;2900;9;12;;45-54;73;1-85
+Talyah Larchiere;Feminino;13/08/1980;44;Coordenador;Ensino Médio;Financeiro;10000;20/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;35-44;102;86-176
+Kurtis Bratchell;Masculino;02/08/1986;38;Supervisor;Mestrado;Produção;7000;21/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;35-44;101;86-176
+Jaimie McKibben;Feminino;12/01/1987;37;Estagiário;Ensino Técnico;Recursos Humanos;1200;22/09/2019;;Estágio;;;200;200;200;200;;;800;9;-;;35-44;100;86-176
+Amalita Landsberg;Feminino;17/08/1999;25;Estagiário;Ensino Médio;Vendas;1200;22/09/2019;;Estágio;;;200;200;200;200;;;800;9;-;;24-34;100;86-176
+Blondelle Juhruke;Feminino;28/01/1987;37;Analista Jr;Ensino Superior;Operações;3500;22/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;35-44;100;86-176
+Byron Klimowski;Masculino;27/07/1991;33;Coordenador;Pós-graduação;TI;10000;23/09/2019;13/11/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;;500;5300;9;11;;24-34;51;1-85
+Evyn Degli Abbati;Masculino;17/05/1967;57;Estagiário;Ensino Médio;Logística;1200;23/09/2019;;Estágio;;;200;200;200;200;500;;1300;9;-;;55-64;99;86-176
+Hermon Scuse;Masculino;24/06/1994;30;Assistente;Ensino Médio;Administração;2500;24/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;24-34;98;86-176
+Mary Putt;Feminino;25/03/1983;41;Assistente;Ensino Médio;Financeiro;2500;24/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;35-44;98;86-176
+Chrisy Churm;Masculino;17/04/2000;24;Estagiário;Ensino Técnico;Produção;1200;24/09/2019;;Estágio;;;200;200;200;200;;;800;9;-;;24-34;98;86-176
+Blakeley Heasman;Feminino;20/02/1978;46;Analista Jr;Ensino Técnico;TI;3500;24/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;45-54;98;86-176
+Sigismundo Castellan;Masculino;30/01/1999;25;Analista Jr;Pós-graduação;Financeiro;3500;25/09/2019;;CLT;;;600;600;600;600;500;;2900;9;-;;24-34;97;86-176
+Gustavus Nelane;Masculino;16/10/1987;37;Analista Jr;Ensino Médio;Operações;3500;25/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;35-44;97;86-176
+Harris Chmiel;Masculino;14/12/1995;29;Assistente;Ensino Médio;Produção;2500;25/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;24-34;97;86-176
+Giacobo Zanini;Masculino;14/10/1983;41;Gerente;Ensino Médio;Vendas;15000;25/09/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;9;-;;35-44;97;86-176
+Stanfield Chisnall;Masculino;13/11/1969;55;Analista Jr;Ensino Superior;Financeiro;3500;25/09/2019;;CLT;;;600;600;600;600;500;;2900;9;-;;55-64;97;86-176
+Burlie Backshall;Masculino;06/11/1989;35;Analista Sr;Ensino Superior;Produção;5000;26/09/2019;;CLT;;;600;600;600;600;;500;2900;9;-;;35-44;96;86-176
+Erny Holsey;Masculino;19/07/1992;32;Gerente;Mestrado;Financeiro;15000;27/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;24-34;95;86-176
+Odell Melan;Masculino;16/12/1978;46;Gerente;Ensino Técnico;Marketing;15000;28/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;45-54;94;86-176
+Ferdinande Kach;Feminino;12/09/1970;54;Supervisor;Ensino Médio;Administração;7000;28/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;45-54;94;86-176
+Myrwyn Bliben;Masculino;23/02/1987;37;Estagiário;Ensino Técnico;Produção;1200;28/09/2019;;Estágio;;;200;200;200;200;;;800;9;-;;35-44;94;86-176
+Avigdor Dimsdale;Masculino;08/08/1985;39;Analista Sr;Ensino Médio;Administração;5000;29/09/2019;;CLT;;;600;600;600;600;;500;2900;9;-;;35-44;93;86-176
+Shena Attenbrough;Feminino;29/04/1983;41;Supervisor;Pós-graduação;Financeiro;7000;29/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;35-44;93;86-176
+Si Lattka;Masculino;12/10/1990;34;Supervisor;Mestrado;Produção;7000;29/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;24-34;93;86-176
+Sandy Warrender;Masculino;31/03/1981;43;Gerente;Ensino Técnico;Produção;15000;30/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;35-44;92;86-176
+Martguerita Phettis;Feminino;18/07/1972;52;Assistente;Ensino Médio;TI;2500;30/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;45-54;92;86-176
+Douglas Tunnadine;Masculino;14/06/1979;45;Assistente;Ensino Superior;Produção;2500;30/09/2019;;CLT;;;600;600;600;600;;;2400;9;-;;45-54;92;86-176
+Riley Byllam;Masculino;08/08/1980;44;Analista Sr;Ensino Superior;Financeiro;5000;30/09/2019;;CLT;;;600;600;600;600;;500;2900;9;-;Férias;35-44;92;86-176
+Mace Beldon;Masculino;12/09/1965;59;Supervisor;Pós-graduação;Recursos Humanos;7000;30/09/2019;;CLT;;;1200;1200;1200;1200;;500;5300;9;-;;55-64;92;86-176
+Annora Polle;Feminino;12/10/1992;32;Assistente;Ensino Técnico;Financeiro;2500;01/10/2019;;CLT;;;600;600;600;600;;;2400;10;-;;24-34;91;86-176
+Ula Cottel;Feminino;28/07/1991;33;Supervisor;Pós-graduação;Financeiro;7000;01/10/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;10;-;;24-34;91;86-176
+Lavinie Berisford;Feminino;30/12/1979;45;Gerente;Ensino Superior;Financeiro;15000;02/10/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;10;-;;45-54;90;86-176
+Perceval Whate;Masculino;25/07/1978;46;Estagiário;Ensino Técnico;Recursos Humanos;1200;02/10/2019;;Estágio;;;200;200;200;200;;;800;10;-;;45-54;90;86-176
+Helenelizabeth Dempster;Feminino;27/04/1995;29;Gerente;Pós-graduação;Produção;15000;02/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;24-34;90;86-176
+Lalo Champerlen;Masculino;09/01/1976;48;Supervisor;Pós-graduação;Produção;7000;02/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;45-54;90;86-176
+Dexter Domingues;Masculino;11/10/1969;55;Analista Jr;Ensino Médio;Recursos Humanos;3500;03/10/2019;;CLT;;;600;600;600;600;;;2400;10;-;;55-64;89;86-176
+Audre Walsh;Feminino;22/11/1988;36;Gerente;Ensino Superior;Marketing;15000;03/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;35-44;89;86-176
+Nelle Wroughton;Feminino;18/07/1994;30;Supervisor;Ensino Técnico;Financeiro;7000;03/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;24-34;89;86-176
+Cordy Axelby;Masculino;06/05/1979;45;Analista Sr;Ensino Técnico;TI;5000;03/10/2019;;CLT;;Sim;600;600;600;600;;500;2900;10;-;;45-54;89;86-176
+Cathi Bouch;Feminino;21/04/1992;32;Gerente;Pós-graduação;Logística;15000;04/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;24-34;88;86-176
+Chen Danell;Masculino;03/11/1969;55;Coordenador;Ensino Técnico;Vendas;10000;04/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;55-64;88;86-176
+Verina Westhead;Feminino;30/04/1994;30;Gerente;Pós-graduação;Marketing;15000;04/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;24-34;88;86-176
+Eleen Robert;Feminino;25/07/1976;48;Supervisor;Pós-graduação;Logística;7000;04/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;45-54;88;86-176
+Arri Fear;Masculino;13/04/1964;60;Gerente;Ensino Técnico;Logística;15000;05/10/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;10;-;;55-64;87;86-176
+Welby Tunny;Masculino;28/08/1997;27;Analista Jr;Pós-graduação;Produção;3500;06/10/2019;27/12/2019;CLT;Demissão Voluntária;;600;600;600;600;;;2400;10;12;;24-34;82;1-85
+Vassily O'Fallowne;Masculino;10/07/1969;55;Gerente;Mestrado;Vendas;15000;07/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;55-64;85;1-85
+Iolande Budd;Feminino;23/12/1967;57;Coordenador;Ensino Médio;Produção;10000;07/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;55-64;85;1-85
+Julio Juza;Masculino;24/01/1988;36;Analista Jr;Ensino Médio;TI;3500;08/10/2019;;CLT;;;600;600;600;600;;;2400;10;-;Férias;35-44;84;1-85
+Urban Farncombe;Masculino;13/02/1967;57;Analista Sr;Pós-graduação;Produção;5000;08/10/2019;;CLT;;;600;600;600;600;;500;2900;10;-;;55-64;84;1-85
+Annalee Tredwell;Feminino;10/12/1995;29;Supervisor;Pós-graduação;Operações;7000;09/10/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;10;-;;24-34;83;1-85
+Milo Durward;Masculino;20/06/1965;59;Gerente;Ensino Técnico;Marketing;15000;09/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;55-64;83;1-85
+Corena Dent;Feminino;06/01/1973;51;Gerente;Pós-graduação;TI;15000;09/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;45-54;83;1-85
+Graig Priddis;Masculino;23/03/1975;49;Supervisor;Ensino Superior;Logística;7000;09/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;45-54;83;1-85
+Erma Bateup;Feminino;04/11/1992;32;Assistente;Ensino Superior;Produção;2500;09/10/2019;;CLT;;;600;600;600;600;500;;2900;10;-;;24-34;83;1-85
+Nicolina Gwynne;Feminino;18/08/1973;51;Coordenador;Ensino Técnico;Produção;10000;10/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;45-54;82;1-85
+Merci Tilzey;Feminino;02/12/1981;43;Analista Sr;Ensino Superior;Recursos Humanos;5000;10/10/2019;;CLT;;;600;600;600;600;;500;2900;10;-;;35-44;82;1-85
+Cullin Toombes;Masculino;22/12/1973;51;Assistente;Ensino Superior;Recursos Humanos;2500;11/10/2019;;CLT;;;600;600;600;600;;;2400;10;-;;45-54;81;1-85
+Donielle McMeekin;Feminino;02/04/1961;63;Gerente;Mestrado;Operações;15000;11/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;55-64;81;1-85
+Betteanne Dobey;Feminino;29/06/1965;59;Gerente;Ensino Superior;Administração;15000;12/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;55-64;80;1-85
+Padget Pleaden;Masculino;06/07/1966;58;Estagiário;Ensino Médio;Financeiro;1200;12/10/2019;;Estágio;;;200;200;200;200;;;800;10;-;;55-64;80;1-85
+Orson Fitzsimon;Masculino;05/04/1972;52;Gerente;Pós-graduação;Vendas;15000;12/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;45-54;80;1-85
+Celestyna Baford;Feminino;02/01/1960;64;Supervisor;Pós-graduação;Operações;7000;12/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;55-64;80;1-85
+Izak Grenshields;Masculino;17/01/1975;49;Analista Sr;Pós-graduação;Administração;5000;13/10/2019;;CLT;;;600;600;600;600;;500;2900;10;-;;45-54;79;1-85
+Bendite Fishenden;Feminino;21/12/1974;50;Analista Jr;Ensino Técnico;Administração;3500;13/10/2019;;CLT;;;600;600;600;600;;;2400;10;-;;45-54;79;1-85
+Derk Hambright;Masculino;16/03/1966;58;Analista Sr;Ensino Superior;Logística;5000;13/10/2019;;CLT;;;600;600;600;600;;500;2900;10;-;;55-64;79;1-85
+Candide Caghy;Feminino;22/09/1991;33;Estagiário;Ensino Técnico;Administração;1200;13/10/2019;;Estágio;;;200;200;200;200;;;800;10;-;Licença;24-34;79;1-85
+Sheilah Savage;Feminino;08/02/1979;45;Coordenador;Pós-graduação;TI;10000;14/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;45-54;78;1-85
+Kattie Adamo;Feminino;10/05/1997;27;Gerente;Pós-graduação;Logística;15000;14/10/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;10;-;;24-34;78;1-85
+Tilda De Giorgis;Feminino;18/12/1984;40;Estagiário;Ensino Médio;Administração;1200;14/10/2019;;Estágio;;;200;200;200;200;;;800;10;-;;35-44;78;1-85
+Arny Nore;Masculino;19/06/1993;31;Gerente;Mestrado;TI;15000;15/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;24-34;77;1-85
+Rea Garlant;Feminino;20/01/1993;31;Estagiário;Ensino Técnico;Financeiro;1200;15/10/2019;;Estágio;;Sim;200;200;200;200;;;800;10;-;;24-34;77;1-85
+Georgetta Runnicles;Feminino;23/04/1984;40;Analista Sr;Ensino Técnico;Vendas;5000;16/10/2019;;CLT;;;600;600;600;600;;500;2900;10;-;;35-44;76;1-85
+Kerrin Richarz;Feminino;21/07/1960;64;Estagiário;Ensino Médio;Recursos Humanos;1200;17/10/2019;;Estágio;;;200;200;200;200;;;800;10;-;;55-64;75;1-85
+Corby MacLachlan;Masculino;22/12/1998;26;Analista Jr;Ensino Médio;Recursos Humanos;3500;17/10/2019;;CLT;;;600;600;600;600;;;2400;10;-;;24-34;75;1-85
+Brandtr Lambole;Masculino;23/07/1981;43;Analista Jr;Ensino Médio;Financeiro;3500;17/10/2019;;CLT;;Sim;600;600;600;600;;;2400;10;-;;35-44;75;1-85
+Raffaello Rentilll;Masculino;10/11/1990;34;Supervisor;Pós-graduação;TI;7000;17/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;24-34;75;1-85
+Suzann Whellams;Feminino;16/09/1990;34;Assistente;Ensino Superior;TI;2500;17/10/2019;;CLT;;;600;600;600;600;;;2400;10;-;;24-34;75;1-85
+Keefer O'Hoey;Masculino;19/08/1985;39;Analista Sr;Pós-graduação;Produção;5000;18/10/2019;;CLT;;;600;600;600;600;;500;2900;10;-;;35-44;74;1-85
+Wolfie Cairns;Masculino;18/07/1975;49;Assistente;Ensino Médio;Marketing;2500;18/10/2019;;CLT;;;600;600;600;600;;;2400;10;-;;45-54;74;1-85
+Hobie Durman;Masculino;06/03/1975;49;Coordenador;Ensino Médio;Recursos Humanos;10000;19/10/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;10;-;;45-54;73;1-85
+Opal Langdridge;Feminino;26/12/1960;64;Coordenador;Ensino Médio;Produção;10000;19/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;55-64;73;1-85
+Haskel Luisetti;Masculino;29/03/1970;54;Coordenador;Pós-graduação;Marketing;10000;20/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;45-54;72;1-85
+Egbert Chaplin;Masculino;13/08/1975;49;Estagiário;Ensino Técnico;Marketing;1200;21/10/2019;03/12/2019;Estágio;Término de Contrato;;200;200;200;200;;;800;10;12;;45-54;43;1-85
+Gilbertine Munn;Feminino;17/08/1986;38;Gerente;Ensino Superior;Financeiro;15000;21/10/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;10;-;;35-44;71;1-85
+Aveline Marchbank;Feminino;10/07/1962;62;Gerente;Ensino Técnico;Marketing;15000;21/10/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;10;-;;55-64;71;1-85
+Gilberta Lineen;Feminino;17/06/1997;27;Assistente;Ensino Superior;TI;2500;22/10/2019;;CLT;;;600;600;600;600;;;2400;10;-;;24-34;70;1-85
+Zolly Beals;Masculino;25/08/1996;28;Supervisor;Pós-graduação;Marketing;7000;22/10/2019;12/12/2019;CLT;Demissão Voluntária;;1200;1200;1200;1200;;500;5300;10;12;;24-34;51;1-85
+Isabelita Crosskell;Feminino;23/02/1991;33;Coordenador;Ensino Médio;TI;10000;23/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;24-34;69;1-85
+Eldredge Terney;Masculino;25/10/1986;38;Supervisor;Ensino Médio;TI;7000;25/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;35-44;67;1-85
+April Mariel;Feminino;10/06/1964;60;Estagiário;Ensino Técnico;TI;1200;25/10/2019;;Estágio;;;200;200;200;200;;;800;10;-;;55-64;67;1-85
+Alphonso Marney;Masculino;05/11/2000;24;Assistente;Ensino Superior;Operações;2500;25/10/2019;;CLT;;;600;600;600;600;;;2400;10;-;;24-34;67;1-85
+Rasia Carrane;Feminino;02/06/1969;55;Analista Sr;Ensino Médio;Administração;5000;25/10/2019;;CLT;;;600;600;600;600;;500;2900;10;-;;55-64;67;1-85
+Kinnie Rushmere;Masculino;16/06/1963;61;Analista Sr;Pós-graduação;Recursos Humanos;5000;26/10/2019;;CLT;;;600;600;600;600;;500;2900;10;-;;55-64;66;1-85
+Andra Ladewig;Feminino;10/01/1999;25;Estagiário;Ensino Médio;Administração;1200;27/10/2019;;Estágio;;;200;200;200;200;;;800;10;-;;24-34;65;1-85
+Erin Leather;Masculino;27/11/1970;54;Coordenador;Mestrado;Logística;10000;27/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;45-54;65;1-85
+Curran Santer;Masculino;22/05/1990;34;Analista Jr;Ensino Médio;Financeiro;3500;27/10/2019;;CLT;;;600;600;600;600;;;2400;10;-;;24-34;65;1-85
+Vick Knightly;Masculino;11/09/1999;25;Supervisor;Pós-graduação;Operações;7000;27/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;24-34;65;1-85
+Roberta Kirkwood;Feminino;05/02/1977;47;Supervisor;Ensino Superior;Marketing;7000;27/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;45-54;65;1-85
+Bryanty Colvill;Masculino;16/02/1969;55;Analista Jr;Ensino Superior;Administração;3500;28/10/2019;;CLT;;;600;600;600;600;;;2400;10;-;;55-64;64;1-85
+Max Gaythorpe;Masculino;06/07/1972;52;Supervisor;Ensino Médio;Logística;7000;28/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;45-54;64;1-85
+Frasquito Swannack;Masculino;27/01/1964;60;Estagiário;Ensino Médio;Marketing;1200;28/10/2019;;Estágio;;Sim;200;200;200;200;;;800;10;-;;55-64;64;1-85
+Lorine D'Elias;Feminino;20/09/1971;53;Coordenador;Ensino Técnico;TI;10000;28/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;45-54;64;1-85
+Kacey Chaikovski;Feminino;05/02/1993;31;Analista Sr;Pós-graduação;Operações;5000;28/10/2019;;CLT;;Sim;600;600;600;600;;500;2900;10;-;;24-34;64;1-85
+Mylo Debling;Masculino;25/03/1990;34;Estagiário;Ensino Técnico;TI;1200;28/10/2019;;Estágio;;;200;200;200;200;;;800;10;-;;24-34;64;1-85
+Shauna Hansbury;Feminino;18/10/1982;42;Coordenador;Pós-graduação;Recursos Humanos;10000;28/10/2019;;CLT;;;1200;1200;1200;1200;;500;5300;10;-;;35-44;64;1-85
+Dreddy Benaine;Feminino;21/04/1975;49;Analista Sr;Pós-graduação;Recursos Humanos;5000;29/10/2019;;CLT;;;600;600;600;600;;500;2900;10;-;;45-54;63;1-85
+Sabrina Gillingham;Feminino;01/07/1985;39;Assistente;Ensino Médio;Operações;2500;29/10/2019;;CLT;;;600;600;600;600;;;2400;10;-;;35-44;63;1-85
+Siouxie Dollar;Feminino;13/02/1961;63;Estagiário;Ensino Técnico;Vendas;1200;29/10/2019;;Estágio;;;200;200;200;200;;;800;10;-;;55-64;63;1-85
+Brooke Clifforth;Feminino;15/09/1993;31;Analista Sr;Ensino Técnico;Administração;5000;30/10/2019;;CLT;;;600;600;600;600;;500;2900;10;-;;24-34;62;1-85
+Teodor Gaspero;Masculino;15/05/2000;24;Analista Sr;Ensino Superior;Financeiro;5000;30/10/2019;;CLT;;;600;600;600;600;;500;2900;10;-;;24-34;62;1-85
+Ansel Goulder;Masculino;22/06/1962;62;Assistente;Ensino Superior;TI;2500;30/10/2019;;CLT;;Sim;600;600;600;600;;;2400;10;-;;55-64;62;1-85
+Yehudit Twelftree;Masculino;01/12/1970;54;Coordenador;Pós-graduação;Logística;10000;02/11/2019;06/12/2019;CLT;Demissão Involuntária;;1200;1200;1200;1200;;500;5300;11;12;Férias;45-54;34;1-85
+Evelin Hierro;Masculino;28/05/1988;36;Coordenador;Ensino Médio;Administração;10000;02/11/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;11;-;;35-44;59;1-85
+Constantine Wildor;Feminino;05/09/1963;61;Supervisor;Ensino Superior;Produção;7000;03/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;55-64;58;1-85
+Lyman Bechley;Masculino;22/09/1977;47;Gerente;Ensino Técnico;Administração;15000;03/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;45-54;58;1-85
+Tait Lovejoy;Masculino;17/05/1986;38;Estagiário;Ensino Técnico;TI;1200;04/11/2019;;Estágio;;;200;200;200;200;;;800;11;-;;35-44;57;1-85
+Paul Dreinan;Masculino;10/04/1996;28;Analista Jr;Ensino Superior;Financeiro;3500;04/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;24-34;57;1-85
+Brit Matis;Masculino;04/12/1979;45;Estagiário;Ensino Técnico;Marketing;1200;04/11/2019;;Estágio;;;200;200;200;200;;;800;11;-;;45-54;57;1-85
+Emile Morston;Masculino;30/04/1969;55;Analista Sr;Pós-graduação;Financeiro;5000;04/11/2019;;CLT;;;600;600;600;600;;500;2900;11;-;;55-64;57;1-85
+Karlan McNea;Masculino;25/08/1985;39;Estagiário;Ensino Médio;Vendas;1200;04/11/2019;;Estágio;;;200;200;200;200;;;800;11;-;;35-44;57;1-85
+Margaret Cramond;Feminino;05/01/1988;36;Supervisor;Ensino Médio;Marketing;7000;04/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;35-44;57;1-85
+Jere Gounin;Feminino;21/09/1978;46;Assistente;Ensino Superior;Marketing;2500;05/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;45-54;56;1-85
+Lockwood Houlworth;Masculino;01/05/1999;25;Analista Jr;Ensino Técnico;Logística;3500;06/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;24-34;55;1-85
+Myca Deevey;Masculino;25/05/1990;34;Supervisor;Ensino Técnico;Financeiro;7000;06/11/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;11;-;;24-34;55;1-85
+Lorrie Queen;Feminino;31/01/1996;28;Assistente;Ensino Superior;Marketing;2500;06/11/2019;11/12/2019;CLT;Demissão Involuntária;;600;600;600;600;;;2400;11;12;;24-34;35;1-85
+Melosa Eneas;Feminino;27/04/1979;45;Estagiário;Ensino Técnico;Operações;1200;06/11/2019;;Estágio;;;200;200;200;200;500;;1300;11;-;;45-54;55;1-85
+Trumaine Franklyn;Masculino;23/10/1972;52;Estagiário;Ensino Médio;Logística;1200;07/11/2019;;Estágio;;;200;200;200;200;;;800;11;-;;45-54;54;1-85
+Lester Jacquest;Masculino;03/01/1983;41;Analista Jr;Pós-graduação;Operações;3500;07/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;35-44;54;1-85
+Quinton Reilinger;Masculino;02/07/1981;43;Coordenador;Mestrado;Recursos Humanos;10000;07/11/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;11;-;;35-44;54;1-85
+Anjela Simioni;Feminino;15/11/1992;32;Estagiário;Ensino Médio;Logística;1200;08/11/2019;;Estágio;;Sim;200;200;200;200;;;800;11;-;;24-34;53;1-85
+Lida Tempest;Feminino;06/01/1997;27;Coordenador;Ensino Técnico;Produção;10000;10/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;24-34;51;1-85
+Birgitta Chilton;Feminino;15/01/1965;59;Estagiário;Ensino Médio;Produção;1200;10/11/2019;;Estágio;;;200;200;200;200;;;800;11;-;;55-64;51;1-85
+Ryley Rosingdall;Masculino;24/06/1963;61;Analista Jr;Ensino Médio;Logística;3500;11/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;55-64;50;1-85
+Peri Hobson;Feminino;12/03/1975;49;Analista Jr;Ensino Superior;Operações;3500;11/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;45-54;50;1-85
+Darci Bohlje;Feminino;30/01/1981;43;Assistente;Ensino Médio;Marketing;2500;13/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;35-44;48;1-85
+Darsie Titterton;Feminino;01/01/1966;58;Analista Sr;Ensino Médio;Marketing;5000;13/11/2019;;CLT;;;600;600;600;600;;500;2900;11;-;;55-64;48;1-85
+Sterne MacClancey;Masculino;19/09/1963;61;Analista Jr;Ensino Médio;Vendas;3500;13/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;55-64;48;1-85
+Gavan Darke;Masculino;19/11/1994;30;Coordenador;Ensino Médio;Logística;10000;13/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;24-34;48;1-85
+Washington Boyford;Masculino;22/02/1989;35;Analista Jr;Ensino Técnico;Recursos Humanos;3500;14/11/2019;19/12/2019;CLT;Demissão Voluntária;;600;600;600;600;;;2400;11;12;;35-44;35;1-85
+Weber Hartrick;Masculino;10/06/1962;62;Supervisor;Ensino Técnico;Vendas;7000;14/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;55-64;47;1-85
+Seth Conman;Masculino;17/07/1988;36;Estagiário;Ensino Técnico;Operações;1200;14/11/2019;;Estágio;;;200;200;200;200;;;800;11;-;;35-44;47;1-85
+Andres Brear;Masculino;04/09/1966;58;Coordenador;Ensino Médio;Financeiro;10000;15/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;55-64;46;1-85
+Idelle Pervoe;Feminino;25/12/1976;48;Estagiário;Ensino Médio;Logística;1200;15/11/2019;;Estágio;;;200;200;200;200;;;800;11;-;;45-54;46;1-85
+Marguerite Bergen;Feminino;27/10/1995;29;Estagiário;Ensino Técnico;Administração;1200;15/11/2019;;Estágio;;;200;200;200;200;;;800;11;-;;24-34;46;1-85
+Jeanna Joinson;Feminino;23/03/1988;36;Analista Jr;Ensino Médio;Vendas;3500;16/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;35-44;45;1-85
+Brok Whorton;Masculino;13/01/1970;54;Supervisor;Ensino Superior;Marketing;7000;16/11/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;11;-;;45-54;45;1-85
+Boy Phillipson;Masculino;05/09/1982;42;Gerente;Mestrado;Administração;15000;16/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;35-44;45;1-85
+Keefer Burnes;Masculino;07/02/1969;55;Estagiário;Ensino Médio;TI;1200;16/11/2019;;Estágio;;;200;200;200;200;;;800;11;-;;55-64;45;1-85
+Harv Pretty;Masculino;24/12/1990;34;Gerente;Ensino Técnico;Recursos Humanos;15000;17/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;24-34;44;1-85
+Bernette Pren;Feminino;14/09/1990;34;Analista Sr;Ensino Técnico;Produção;5000;17/11/2019;;CLT;;Sim;600;600;600;600;;500;2900;11;-;;24-34;44;1-85
+Marice Oakeby;Feminino;01/04/1986;38;Analista Jr;Ensino Superior;Financeiro;3500;18/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;35-44;43;1-85
+Ward O'Siaghail;Masculino;24/12/1960;64;Assistente;Ensino Médio;Vendas;2500;18/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;55-64;43;1-85
+Lark Perfitt;Feminino;16/06/1986;38;Assistente;Ensino Superior;Logística;2500;18/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;35-44;43;1-85
+Brad Bullingham;Masculino;04/02/1985;39;Supervisor;Mestrado;Logística;7000;19/11/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;11;-;;35-44;42;1-85
+Marinna Didball;Feminino;29/12/1978;46;Supervisor;Mestrado;Recursos Humanos;7000;19/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;45-54;42;1-85
+Shana Klewi;Feminino;07/07/1963;61;Supervisor;Mestrado;Produção;7000;20/11/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;11;-;;55-64;41;1-85
+Aurore Crickmoor;Feminino;30/05/1964;60;Estagiário;Ensino Técnico;Administração;1200;20/11/2019;;Estágio;;Sim;200;200;200;200;;;800;11;-;;55-64;41;1-85
+Laurianne Coltart;Feminino;20/06/1999;25;Analista Jr;Ensino Superior;TI;3500;20/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;24-34;41;1-85
+Levi Lujan;Masculino;06/11/1982;42;Coordenador;Mestrado;Financeiro;10000;21/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;35-44;40;1-85
+Sandye Jannings;Feminino;24/10/1965;59;Analista Jr;Ensino Superior;Logística;3500;21/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;55-64;40;1-85
+Kevin Malam;Masculino;03/10/1999;25;Analista Sr;Ensino Técnico;Marketing;5000;21/11/2019;;CLT;;;600;600;600;600;500;500;3400;11;-;;24-34;40;1-85
+Benjie Mapplebeck;Masculino;09/06/1993;31;Assistente;Ensino Superior;Administração;2500;22/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;24-34;39;1-85
+Raynor Sinderland;Masculino;13/10/1993;31;Estagiário;Ensino Médio;TI;1200;22/11/2019;;Estágio;;;200;200;200;200;;;800;11;-;;24-34;39;1-85
+Edwina Josefowicz;Feminino;13/08/1968;56;Supervisor;Pós-graduação;Recursos Humanos;7000;22/11/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;11;-;Férias;55-64;39;1-85
+Rheba Brett;Feminino;13/07/1999;25;Coordenador;Mestrado;Operações;10000;23/11/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;11;-;;24-34;38;1-85
+Raddie De La Coste;Masculino;05/05/1967;57;Analista Jr;Ensino Superior;Operações;3500;23/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;55-64;38;1-85
+Gabrielle McCome;Feminino;10/01/1969;55;Supervisor;Ensino Superior;Vendas;7000;23/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;55-64;38;1-85
+Renato Laxe;Masculino;14/01/1977;47;Analista Jr;Ensino Técnico;Vendas;3500;23/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;45-54;38;1-85
+Saunders Tidswell;Masculino;27/06/1998;26;Coordenador;Ensino Técnico;Logística;10000;24/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;24-34;37;1-85
+Trixy St Pierre;Feminino;12/02/1980;44;Supervisor;Ensino Superior;Marketing;7000;25/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;35-44;36;1-85
+Orson Churchouse;Masculino;26/11/1969;55;Analista Jr;Pós-graduação;TI;3500;26/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;55-64;35;1-85
+Mariana Monkhouse;Feminino;02/09/1980;44;Analista Jr;Ensino Médio;Operações;3500;26/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;35-44;35;1-85
+Wald Klaussen;Masculino;16/10/1976;48;Analista Jr;Pós-graduação;Vendas;3500;27/11/2019;;CLT;;;600;600;600;600;500;;2900;11;-;;45-54;34;1-85
+Rea Cromblehome;Feminino;20/03/1987;37;Analista Jr;Pós-graduação;Produção;3500;27/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;35-44;34;1-85
+Camille Gilbeart;Feminino;10/04/1993;31;Estagiário;Ensino Técnico;TI;1200;28/11/2019;;Estágio;;;200;200;200;200;500;;1300;11;-;;24-34;33;1-85
+Sibby Dybald;Feminino;28/04/1991;33;Analista Jr;Ensino Médio;Recursos Humanos;3500;29/11/2019;;CLT;;;600;600;600;600;500;;2900;11;-;;24-34;32;1-85
+Brian Burnsides;Masculino;23/05/1964;60;Analista Jr;Ensino Técnico;Vendas;3500;29/11/2019;;CLT;;;600;600;600;600;;;2400;11;-;;55-64;32;1-85
+Cinnamon Vazquez;Feminino;20/06/1978;46;Analista Sr;Ensino Médio;Administração;5000;30/11/2019;;CLT;;;600;600;600;600;;500;2900;11;-;;45-54;31;1-85
+Fernando Zanicchelli;Masculino;23/09/1981;43;Gerente;Ensino Médio;Operações;15000;30/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;35-44;31;1-85
+Nick Hillatt;Masculino;10/11/1975;49;Gerente;Ensino Médio;Administração;15000;30/11/2019;;CLT;;;1200;1200;1200;1200;;500;5300;11;-;;45-54;31;1-85
+Dacia Lowmass;Feminino;21/11/1963;61;Gerente;Ensino Técnico;Administração;15000;01/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;55-64;30;1-85
+Marlena Shawcroft;Feminino;04/08/1980;44;Estagiário;Ensino Técnico;Produção;1200;01/12/2019;;Estágio;;;200;200;200;200;;;800;12;-;;35-44;30;1-85
+Inga Betun;Feminino;12/06/1965;59;Coordenador;Mestrado;Logística;10000;01/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;55-64;30;1-85
+Caril Hutchins;Feminino;02/01/1991;33;Coordenador;Ensino Técnico;Recursos Humanos;10000;02/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;24-34;29;1-85
+Stanislaus Jameson;Masculino;31/01/1984;40;Gerente;Ensino Técnico;TI;15000;02/12/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;12;-;;35-44;29;1-85
+Consolata Rahill;Feminino;20/08/1995;29;Estagiário;Ensino Técnico;TI;1200;04/12/2019;;Estágio;;;200;200;200;200;;;800;12;-;;24-34;27;1-85
+Berny Baggally;Feminino;23/01/1983;41;Gerente;Mestrado;Financeiro;15000;04/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;35-44;27;1-85
+Stephanus Antoniazzi;Masculino;08/12/1983;41;Estagiário;Ensino Médio;Logística;1200;04/12/2019;;Estágio;;Sim;200;200;200;200;;;800;12;-;;35-44;27;1-85
+Tripp O'Hickee;Masculino;03/09/1969;55;Supervisor;Mestrado;Administração;7000;05/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;55-64;26;1-85
+Osmund Bradbrook;Masculino;27/05/1961;63;Analista Sr;Pós-graduação;Logística;5000;06/12/2019;;CLT;;;600;600;600;600;;500;2900;12;-;;55-64;25;1-85
+Say Pinnijar;Masculino;24/11/1981;43;Assistente;Ensino Superior;Vendas;2500;06/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;35-44;25;1-85
+Broderic Kitchingman;Masculino;03/11/1985;39;Analista Jr;Ensino Técnico;Marketing;3500;07/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;35-44;24;1-85
+Kelsi Killingbeck;Feminino;08/01/1969;55;Assistente;Ensino Médio;TI;2500;09/12/2019;;CLT;;;600;600;600;600;500;;2900;12;-;;55-64;22;1-85
+Skell Cranstone;Masculino;24/07/1969;55;Coordenador;Pós-graduação;Produção;10000;09/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;55-64;22;1-85
+Urbain McAusland;Masculino;03/10/1962;62;Assistente;Ensino Médio;Financeiro;2500;09/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;55-64;22;1-85
+Kain Hendrichs;Masculino;09/02/1978;46;Estagiário;Ensino Técnico;Recursos Humanos;1200;09/12/2019;;Estágio;;Sim;200;200;200;200;;;800;12;-;;45-54;22;1-85
+Bonnibelle Keats;Feminino;16/05/1990;34;Analista Jr;Ensino Médio;Vendas;3500;09/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;24-34;22;1-85
+Kelsy McCaskill;Feminino;08/03/1974;50;Analista Sr;Ensino Médio;TI;5000;10/12/2019;;CLT;;;600;600;600;600;;500;2900;12;-;;45-54;21;1-85
+Gabriela Drynan;Feminino;16/11/2000;24;Estagiário;Ensino Técnico;Produção;1200;10/12/2019;;Estágio;;;200;200;200;200;;;800;12;-;;24-34;21;1-85
+Gery Dawidowicz;Masculino;18/09/1970;54;Analista Sr;Ensino Superior;Administração;5000;11/12/2019;;CLT;;Sim;600;600;600;600;500;500;3400;12;-;;45-54;20;1-85
+Alfie Mattocks;Masculino;27/08/1965;59;Coordenador;Ensino Superior;Produção;10000;11/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;55-64;20;1-85
+Arlan Reeken;Masculino;02/01/1961;63;Supervisor;Ensino Superior;Logística;7000;11/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;55-64;20;1-85
+Terrel Senogles;Masculino;06/12/1989;35;Analista Jr;Ensino Técnico;Financeiro;3500;12/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;35-44;19;1-85
+Lori Hardey;Feminino;22/06/1973;51;Supervisor;Ensino Superior;Produção;7000;12/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;45-54;19;1-85
+Johnna Saterweyte;Feminino;20/11/1975;49;Supervisor;Pós-graduação;TI;7000;12/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;45-54;19;1-85
+Tawnya Turvey;Feminino;20/04/1994;30;Estagiário;Ensino Médio;Produção;1200;12/12/2019;;Estágio;;;200;200;200;200;;;800;12;-;;24-34;19;1-85
+Gregory Emtage;Masculino;07/08/1998;26;Assistente;Ensino Técnico;Administração;2500;13/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;24-34;18;1-85
+Donica Vinall;Feminino;12/04/1994;30;Analista Jr;Pós-graduação;Vendas;3500;14/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;24-34;17;1-85
+Evelin Jagels;Masculino;17/05/1994;30;Supervisor;Mestrado;Vendas;7000;14/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;24-34;17;1-85
+Dagny Pachta;Masculino;19/08/1969;55;Analista Sr;Ensino Médio;Recursos Humanos;5000;15/12/2019;;CLT;;;600;600;600;600;;500;2900;12;-;;55-64;16;1-85
+Rollie Oliffe;Masculino;09/07/1998;26;Analista Jr;Ensino Médio;Marketing;3500;15/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;24-34;16;1-85
+Jule Diack;Masculino;16/04/1974;50;Gerente;Ensino Superior;Recursos Humanos;15000;15/12/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;12;-;;45-54;16;1-85
+Estevan Osorio;Masculino;25/08/1962;62;Assistente;Ensino Médio;Marketing;2500;15/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;55-64;16;1-85
+Claiborne Stainfield;Masculino;18/01/1987;37;Estagiário;Ensino Técnico;Produção;1200;16/12/2019;;Estágio;;;200;200;200;200;;;800;12;-;;35-44;15;1-85
+Araldo Wagenen;Masculino;16/11/1984;40;Coordenador;Ensino Médio;Produção;10000;16/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;35-44;15;1-85
+Keven Michieli;Masculino;21/03/1997;27;Gerente;Pós-graduação;Vendas;15000;16/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;24-34;15;1-85
+Waneta Farra;Feminino;04/03/1989;35;Assistente;Ensino Superior;Produção;2500;16/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;35-44;15;1-85
+Farrell Cabbell;Masculino;19/03/1999;25;Analista Sr;Ensino Médio;Marketing;5000;16/12/2019;;CLT;;;600;600;600;600;;500;2900;12;-;;24-34;15;1-85
+Clevey Limb;Masculino;24/03/1960;64;Analista Jr;Pós-graduação;Logística;3500;16/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;55-64;15;1-85
+Emelen Siene;Masculino;30/09/2000;24;Coordenador;Mestrado;Logística;10000;17/12/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;12;-;;24-34;14;1-85
+Fin Argont;Masculino;24/12/1981;43;Assistente;Ensino Superior;Operações;2500;17/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;35-44;14;1-85
+Kendre Spicer;Feminino;30/05/1987;37;Estagiário;Ensino Médio;Recursos Humanos;1200;18/12/2019;;Estágio;;;200;200;200;200;;;800;12;-;;35-44;13;1-85
+Sophi Yerrington;Feminino;18/09/1987;37;Assistente;Ensino Médio;Vendas;2500;18/12/2019;;CLT;;Sim;600;600;600;600;500;;2900;12;-;;35-44;13;1-85
+Kayne Billo;Masculino;19/12/1964;60;Estagiário;Ensino Técnico;Administração;1200;19/12/2019;;Estágio;;;200;200;200;200;;;800;12;-;;55-64;12;1-85
+Ethel Askin;Feminino;05/08/2000;24;Supervisor;Ensino Técnico;Operações;7000;21/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;24-34;10;1-85
+Maximilianus Wrefford;Masculino;18/11/1969;55;Estagiário;Ensino Médio;Recursos Humanos;1200;21/12/2019;;Estágio;;;200;200;200;200;;;800;12;-;;55-64;10;1-85
+Margareta Rigney;Feminino;19/08/2000;24;Estagiário;Ensino Técnico;Administração;1200;21/12/2019;;Estágio;;;200;200;200;200;;;800;12;-;;24-34;10;1-85
+Louisa Toping;Feminino;28/09/1999;25;Supervisor;Ensino Médio;TI;7000;21/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;24-34;10;1-85
+Mattie Scarlin;Masculino;24/03/1999;25;Assistente;Ensino Superior;Financeiro;2500;21/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;24-34;10;1-85
+Erasmus Kingzet;Masculino;31/08/1964;60;Assistente;Ensino Superior;Operações;2500;21/12/2019;;CLT;;;600;600;600;600;500;;2900;12;-;;55-64;10;1-85
+Linda Slowly;Feminino;25/01/1972;52;Gerente;Ensino Superior;Financeiro;15000;21/12/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;12;-;;45-54;10;1-85
+Megen Freckelton;Feminino;21/09/1966;58;Supervisor;Pós-graduação;Produção;7000;22/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;55-64;9;1-85
+Leilah Tolcher;Feminino;28/01/1991;33;Assistente;Ensino Médio;Vendas;2500;22/12/2019;;CLT;;Sim;600;600;600;600;;;2400;12;-;;24-34;9;1-85
+Alexis Topes;Feminino;11/01/2000;24;Analista Sr;Ensino Superior;TI;5000;23/12/2019;;CLT;;;600;600;600;600;;500;2900;12;-;;24-34;8;1-85
+Urbanus Libri;Masculino;11/05/1960;64;Gerente;Pós-graduação;Administração;15000;23/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;55-64;8;1-85
+Gerta Denney;Feminino;10/03/1962;62;Assistente;Ensino Médio;Administração;2500;23/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;Férias;55-64;8;1-85
+Shay Hertwell;Feminino;19/05/1988;36;Assistente;Ensino Superior;Recursos Humanos;2500;23/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;35-44;8;1-85
+Malvin Aysik;Masculino;27/07/1986;38;Assistente;Ensino Superior;Operações;2500;23/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;35-44;8;1-85
+Moise McMains;Masculino;16/08/1969;55;Supervisor;Ensino Técnico;Administração;7000;24/12/2019;;CLT;;Sim;1200;1200;1200;1200;500;500;5800;12;-;;55-64;7;1-85
+Bette-ann Fritz;Feminino;05/10/1973;51;Estagiário;Ensino Médio;Financeiro;1200;24/12/2019;;Estágio;;;200;200;200;200;;;800;12;-;;45-54;7;1-85
+Misti Boyland;Feminino;30/12/1989;35;Gerente;Ensino Médio;Operações;15000;24/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;35-44;7;1-85
+Chantalle Chismon;Feminino;23/09/1986;38;Assistente;Ensino Técnico;Marketing;2500;24/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;35-44;7;1-85
+Veronica Penni;Feminino;25/06/1995;29;Analista Sr;Pós-graduação;Financeiro;5000;24/12/2019;;CLT;;;600;600;600;600;;500;2900;12;-;;24-34;7;1-85
+Teodoro Stamps;Masculino;08/12/1965;59;Supervisor;Ensino Médio;Administração;7000;25/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;55-64;6;1-85
+Emlyn Shotboult;Feminino;10/02/1964;60;Analista Sr;Ensino Médio;Recursos Humanos;5000;25/12/2019;;CLT;;;600;600;600;600;;500;2900;12;-;;55-64;6;1-85
+Maryanna Lawley;Feminino;08/10/1967;57;Analista Sr;Pós-graduação;Operações;5000;26/12/2019;;CLT;;;600;600;600;600;;500;2900;12;-;Férias;55-64;5;1-85
+Dorry Chinnock;Feminino;22/06/1961;63;Analista Sr;Ensino Médio;Recursos Humanos;5000;26/12/2019;;CLT;;;600;600;600;600;;500;2900;12;-;;55-64;5;1-85
+Stephanus Kiezler;Masculino;11/12/1974;50;Supervisor;Ensino Médio;Recursos Humanos;7000;26/12/2019;;CLT;;Sim;1200;1200;1200;1200;;500;5300;12;-;;45-54;5;1-85
+Grantham Cassar;Masculino;06/07/1983;41;Analista Jr;Pós-graduação;Recursos Humanos;3500;26/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;35-44;5;1-85
+Josi Roumier;Feminino;05/12/1998;26;Coordenador;Ensino Médio;Financeiro;10000;27/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;24-34;4;1-85
+Katee Juggings;Feminino;24/09/1982;42;Analista Sr;Ensino Médio;Marketing;5000;27/12/2019;;CLT;;;600;600;600;600;;500;2900;12;-;;35-44;4;1-85
+Sandye Mullord;Feminino;19/10/1988;36;Estagiário;Ensino Técnico;Produção;1200;27/12/2019;;Estágio;;Sim;200;200;200;200;;;800;12;-;;35-44;4;1-85
+Babbie Catley;Feminino;24/09/1976;48;Estagiário;Ensino Médio;Recursos Humanos;1200;28/12/2019;;Estágio;;;200;200;200;200;;;800;12;-;;45-54;3;1-85
+Sadye Wybron;Feminino;10/01/1962;62;Assistente;Ensino Médio;TI;2500;28/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;55-64;3;1-85
+Lewie Keeri;Masculino;18/10/1976;48;Supervisor;Ensino Superior;Administração;7000;29/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;45-54;2;1-85
+Theresita Brashier;Feminino;09/08/1983;41;Supervisor;Mestrado;Vendas;7000;29/12/2019;;CLT;;;1200;1200;1200;1200;;500;5300;12;-;;35-44;2;1-85
+Mariam Caudrey;Feminino;22/12/1997;27;Analista Jr;Ensino Superior;Marketing;3500;30/12/2019;;CLT;;;600;600;600;600;;;2400;12;-;;24-34;1;1-85
+Griffie Vanderplas;Masculino;31/01/1977;47;Coordenador;Ensino Médio;Marketing;10000;30/12/2019;;CLT;;;1200;1200;1200;1200;500;500;5800;12;-;;45-54;1;1-85
+Riordan Coggill;Masculino;26/11/1986;38;Assistente;Ensino Superior;Recursos Humanos;2500;30/12/2019;;CLT;;;600;600;600;600;500;;2900;12;-;;35-44;1;1-85
